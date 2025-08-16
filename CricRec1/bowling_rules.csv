@@ -1,0 +1,898 @@
+"rules" "support" "confidence" "coverage" "lift" "count"
+"206" "{Economy_Category=Very_Economic,Team=West Indies} => {Wicket_Category=Four_Wickets}" 0.01 1 0.01 3.44827586206897 1
+"227" "{Economy_Category=Very_Economic,Team=England} => {Wicket_Category=Four_Wickets}" 0.05 1 0.05 3.44827586206897 5
+"537" "{Economy_Category=Very_Economic,Decade=-0s,Team=West Indies} => {Wicket_Category=Four_Wickets}" 0.01 1 0.01 3.44827586206897 1
+"540" "{Economy_Category=Very_Economic,Tournament_Stage=League,Team=West Indies} => {Wicket_Category=Four_Wickets}" 0.01 1 0.01 3.44827586206897 1
+"565" "{Economy_Category=Very_Economic,Decade=-0s,Team=England} => {Wicket_Category=Four_Wickets}" 0.05 1 0.05 3.44827586206897 5
+"568" "{Economy_Category=Very_Economic,Tournament_Stage=League,Team=England} => {Wicket_Category=Four_Wickets}" 0.05 1 0.05 3.44827586206897 5
+"816" "{Economy_Category=Very_Economic,Tournament_Stage=League,Decade=-0s,Team=West Indies} => {Wicket_Category=Four_Wickets}" 0.01 1 0.01 3.44827586206897 1
+"827" "{Economy_Category=Very_Economic,Tournament_Stage=League,Decade=-0s,Team=England} => {Wicket_Category=Four_Wickets}" 0.05 1 0.05 3.44827586206897 5
+"5" "{Team=Namibia} => {Economy_Category=Economic}" 0.01 1 0.01 3.03030303030303 1
+"9" "{Team=Canada} => {Economy_Category=Economic}" 0.01 1 0.01 3.03030303030303 1
+"90" "{Wicket_Category=Five_Plus,Team=Namibia} => {Economy_Category=Economic}" 0.01 1 0.01 3.03030303030303 1
+"92" "{Decade=-0s,Team=Namibia} => {Economy_Category=Economic}" 0.01 1 0.01 3.03030303030303 1
+"94" "{Tournament_Stage=League,Team=Namibia} => {Economy_Category=Economic}" 0.01 1 0.01 3.03030303030303 1
+"102" "{Wicket_Category=Five_Plus,Team=Canada} => {Economy_Category=Economic}" 0.01 1 0.01 3.03030303030303 1
+"104" "{Decade=-0s,Team=Canada} => {Economy_Category=Economic}" 0.01 1 0.01 3.03030303030303 1
+"106" "{Tournament_Stage=League,Team=Canada} => {Economy_Category=Economic}" 0.01 1 0.01 3.03030303030303 1
+"385" "{Wicket_Category=Five_Plus,Decade=-0s,Team=Namibia} => {Economy_Category=Economic}" 0.01 1 0.01 3.03030303030303 1
+"388" "{Wicket_Category=Five_Plus,Tournament_Stage=League,Team=Namibia} => {Economy_Category=Economic}" 0.01 1 0.01 3.03030303030303 1
+"391" "{Tournament_Stage=League,Decade=-0s,Team=Namibia} => {Economy_Category=Economic}" 0.01 1 0.01 3.03030303030303 1
+"397" "{Wicket_Category=Five_Plus,Decade=-0s,Team=Canada} => {Economy_Category=Economic}" 0.01 1 0.01 3.03030303030303 1
+"400" "{Wicket_Category=Five_Plus,Tournament_Stage=League,Team=Canada} => {Economy_Category=Economic}" 0.01 1 0.01 3.03030303030303 1
+"403" "{Tournament_Stage=League,Decade=-0s,Team=Canada} => {Economy_Category=Economic}" 0.01 1 0.01 3.03030303030303 1
+"752" "{Wicket_Category=Five_Plus,Tournament_Stage=League,Decade=-0s,Team=Namibia} => {Economy_Category=Economic}" 0.01 1 0.01 3.03030303030303 1
+"756" "{Wicket_Category=Five_Plus,Tournament_Stage=League,Decade=-0s,Team=Canada} => {Economy_Category=Economic}" 0.01 1 0.01 3.03030303030303 1
+"287" "{Economy_Category=Very_Economic,Team=South Africa} => {Wicket_Category=Four_Wickets}" 0.05 0.714285714285714 0.07 2.46305418719212 5
+"652" "{Economy_Category=Very_Economic,Decade=-0s,Team=South Africa} => {Wicket_Category=Four_Wickets}" 0.05 0.714285714285714 0.07 2.46305418719212 5
+"655" "{Economy_Category=Very_Economic,Tournament_Stage=League,Team=South Africa} => {Wicket_Category=Four_Wickets}" 0.05 0.714285714285714 0.07 2.46305418719212 5
+"865" "{Economy_Category=Very_Economic,Tournament_Stage=League,Decade=-0s,Team=South Africa} => {Wicket_Category=Four_Wickets}" 0.05 0.714285714285714 0.07 2.46305418719212 5
+"307" "{Economy_Category=Very_Economic,Team=India} => {Wicket_Category=Four_Wickets}" 0.04 0.666666666666667 0.06 2.29885057471264 4
+"680" "{Economy_Category=Very_Economic,Decade=-0s,Team=India} => {Wicket_Category=Four_Wickets}" 0.04 0.666666666666667 0.06 2.29885057471264 4
+"683" "{Economy_Category=Very_Economic,Tournament_Stage=League,Team=India} => {Wicket_Category=Four_Wickets}" 0.04 0.666666666666667 0.06 2.29885057471264 4
+"877" "{Economy_Category=Very_Economic,Tournament_Stage=League,Decade=-0s,Team=India} => {Wicket_Category=Four_Wickets}" 0.04 0.666666666666667 0.06 2.29885057471264 4
+"37" "{Team=England} => {Wicket_Category=Four_Wickets}" 0.05 0.625 0.08 2.1551724137931 5
+"229" "{Decade=-0s,Team=England} => {Wicket_Category=Four_Wickets}" 0.05 0.625 0.08 2.1551724137931 5
+"231" "{Tournament_Stage=League,Team=England} => {Wicket_Category=Four_Wickets}" 0.05 0.625 0.08 2.1551724137931 5
+"571" "{Tournament_Stage=League,Decade=-0s,Team=England} => {Wicket_Category=Four_Wickets}" 0.05 0.625 0.08 2.1551724137931 5
+"1" "{Team=U.A.E.} => {Economy_Category=Very_Economic}" 0.01 1 0.01 2.12765957446809 1
+"13" "{Team=Kenya} => {Economy_Category=Very_Economic}" 0.01 1 0.01 2.12765957446809 1
+"18" "{Team=Zimbabwe} => {Economy_Category=Very_Economic}" 0.02 1 0.02 2.12765957446809 2
+"78" "{Wicket_Category=Five_Plus,Team=U.A.E.} => {Economy_Category=Very_Economic}" 0.01 1 0.01 2.12765957446809 1
+"80" "{Decade=-0s,Team=U.A.E.} => {Economy_Category=Very_Economic}" 0.01 1 0.01 2.12765957446809 1
+"82" "{Tournament_Stage=League,Team=U.A.E.} => {Economy_Category=Very_Economic}" 0.01 1 0.01 2.12765957446809 1
+"114" "{Wicket_Category=Five_Plus,Team=Kenya} => {Economy_Category=Very_Economic}" 0.01 1 0.01 2.12765957446809 1
+"116" "{Decade=-0s,Team=Kenya} => {Economy_Category=Very_Economic}" 0.01 1 0.01 2.12765957446809 1
+"118" "{Tournament_Stage=League,Team=Kenya} => {Economy_Category=Very_Economic}" 0.01 1 0.01 2.12765957446809 1
+"125" "{Wicket_Category=Four_Wickets,Team=Zimbabwe} => {Economy_Category=Very_Economic}" 0.01 1 0.01 2.12765957446809 1
+"132" "{Wicket_Category=Five_Plus,Team=Zimbabwe} => {Economy_Category=Very_Economic}" 0.01 1 0.01 2.12765957446809 1
+"134" "{Decade=-0s,Team=Zimbabwe} => {Economy_Category=Very_Economic}" 0.02 1 0.02 2.12765957446809 2
+"136" "{Tournament_Stage=League,Team=Zimbabwe} => {Economy_Category=Very_Economic}" 0.02 1 0.02 2.12765957446809 2
+"164" "{Wicket_Category=Four_Wickets,Team=Bangladesh} => {Economy_Category=Very_Economic}" 0.01 1 0.01 2.12765957446809 1
+"226" "{Wicket_Category=Four_Wickets,Team=England} => {Economy_Category=Very_Economic}" 0.05 1 0.05 2.12765957446809 5
+"267" "{Wicket_Category=Four_Wickets,Team=Pakistan} => {Economy_Category=Very_Economic}" 0.01 1 0.01 2.12765957446809 1
+"286" "{Wicket_Category=Four_Wickets,Team=South Africa} => {Economy_Category=Very_Economic}" 0.05 1 0.05 2.12765957446809 5
+"306" "{Wicket_Category=Four_Wickets,Team=India} => {Economy_Category=Very_Economic}" 0.04 1 0.04 2.12765957446809 4
+"373" "{Wicket_Category=Five_Plus,Decade=-0s,Team=U.A.E.} => {Economy_Category=Very_Economic}" 0.01 1 0.01 2.12765957446809 1
+"376" "{Wicket_Category=Five_Plus,Tournament_Stage=League,Team=U.A.E.} => {Economy_Category=Very_Economic}" 0.01 1 0.01 2.12765957446809 1
+"379" "{Tournament_Stage=League,Decade=-0s,Team=U.A.E.} => {Economy_Category=Very_Economic}" 0.01 1 0.01 2.12765957446809 1
+"409" "{Wicket_Category=Five_Plus,Decade=-0s,Team=Kenya} => {Economy_Category=Very_Economic}" 0.01 1 0.01 2.12765957446809 1
+"412" "{Wicket_Category=Five_Plus,Tournament_Stage=League,Team=Kenya} => {Economy_Category=Very_Economic}" 0.01 1 0.01 2.12765957446809 1
+"415" "{Tournament_Stage=League,Decade=-0s,Team=Kenya} => {Economy_Category=Very_Economic}" 0.01 1 0.01 2.12765957446809 1
+"420" "{Wicket_Category=Four_Wickets,Decade=-0s,Team=Zimbabwe} => {Economy_Category=Very_Economic}" 0.01 1 0.01 2.12765957446809 1
+"423" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=Zimbabwe} => {Economy_Category=Very_Economic}" 0.01 1 0.01 2.12765957446809 1
+"430" "{Wicket_Category=Five_Plus,Decade=-0s,Team=Zimbabwe} => {Economy_Category=Very_Economic}" 0.01 1 0.01 2.12765957446809 1
+"433" "{Wicket_Category=Five_Plus,Tournament_Stage=League,Team=Zimbabwe} => {Economy_Category=Very_Economic}" 0.01 1 0.01 2.12765957446809 1
+"436" "{Tournament_Stage=League,Decade=-0s,Team=Zimbabwe} => {Economy_Category=Very_Economic}" 0.02 1 0.02 2.12765957446809 2
+"474" "{Wicket_Category=Four_Wickets,Decade=-0s,Team=Bangladesh} => {Economy_Category=Very_Economic}" 0.01 1 0.01 2.12765957446809 1
+"477" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=Bangladesh} => {Economy_Category=Very_Economic}" 0.01 1 0.01 2.12765957446809 1
+"564" "{Wicket_Category=Four_Wickets,Decade=-0s,Team=England} => {Economy_Category=Very_Economic}" 0.05 1 0.05 2.12765957446809 5
+"567" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=England} => {Economy_Category=Very_Economic}" 0.05 1 0.05 2.12765957446809 5
+"622" "{Wicket_Category=Four_Wickets,Decade=-0s,Team=Pakistan} => {Economy_Category=Very_Economic}" 0.01 1 0.01 2.12765957446809 1
+"624" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=Pakistan} => {Economy_Category=Very_Economic}" 0.01 1 0.01 2.12765957446809 1
+"651" "{Wicket_Category=Four_Wickets,Decade=-0s,Team=South Africa} => {Economy_Category=Very_Economic}" 0.05 1 0.05 2.12765957446809 5
+"654" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=South Africa} => {Economy_Category=Very_Economic}" 0.05 1 0.05 2.12765957446809 5
+"679" "{Wicket_Category=Four_Wickets,Decade=-0s,Team=India} => {Economy_Category=Very_Economic}" 0.04 1 0.04 2.12765957446809 4
+"682" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=India} => {Economy_Category=Very_Economic}" 0.04 1 0.04 2.12765957446809 4
+"748" "{Wicket_Category=Five_Plus,Tournament_Stage=League,Decade=-0s,Team=U.A.E.} => {Economy_Category=Very_Economic}" 0.01 1 0.01 2.12765957446809 1
+"760" "{Wicket_Category=Five_Plus,Tournament_Stage=League,Decade=-0s,Team=Kenya} => {Economy_Category=Very_Economic}" 0.01 1 0.01 2.12765957446809 1
+"763" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Decade=-0s,Team=Zimbabwe} => {Economy_Category=Very_Economic}" 0.01 1 0.01 2.12765957446809 1
+"768" "{Wicket_Category=Five_Plus,Tournament_Stage=League,Decade=-0s,Team=Zimbabwe} => {Economy_Category=Very_Economic}" 0.01 1 0.01 2.12765957446809 1
+"786" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Decade=-0s,Team=Bangladesh} => {Economy_Category=Very_Economic}" 0.01 1 0.01 2.12765957446809 1
+"826" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Decade=-0s,Team=England} => {Economy_Category=Very_Economic}" 0.05 1 0.05 2.12765957446809 5
+"851" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Decade=-0s,Team=Pakistan} => {Economy_Category=Very_Economic}" 0.01 1 0.01 2.12765957446809 1
+"864" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Decade=-0s,Team=South Africa} => {Economy_Category=Very_Economic}" 0.05 1 0.05 2.12765957446809 5
+"876" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Decade=-0s,Team=India} => {Economy_Category=Very_Economic}" 0.04 1 0.04 2.12765957446809 4
+"210" "{Wicket_Category=Five_Plus,Team=West Indies} => {Economy_Category=Economic}" 0.04 0.666666666666667 0.06 2.02020202020202 4
+"545" "{Wicket_Category=Five_Plus,Decade=-0s,Team=West Indies} => {Economy_Category=Economic}" 0.04 0.666666666666667 0.06 2.02020202020202 4
+"548" "{Wicket_Category=Five_Plus,Tournament_Stage=League,Team=West Indies} => {Economy_Category=Economic}" 0.04 0.666666666666667 0.06 2.02020202020202 4
+"820" "{Wicket_Category=Five_Plus,Tournament_Stage=League,Decade=-0s,Team=West Indies} => {Economy_Category=Economic}" 0.04 0.666666666666667 0.06 2.02020202020202 4
+"33" "{Team=West Indies} => {Economy_Category=Economic}" 0.05 0.625 0.08 1.89393939393939 5
+"212" "{Decade=-0s,Team=West Indies} => {Economy_Category=Economic}" 0.05 0.625 0.08 1.89393939393939 5
+"214" "{Tournament_Stage=League,Team=West Indies} => {Economy_Category=Economic}" 0.05 0.625 0.08 1.89393939393939 5
+"551" "{Tournament_Stage=League,Decade=-0s,Team=West Indies} => {Economy_Category=Economic}" 0.05 0.625 0.08 1.89393939393939 5
+"63" "{Economy_Category=Very_Economic} => {Wicket_Category=Four_Wickets}" 0.25 0.531914893617021 0.47 1.83418928833456 25
+"352" "{Economy_Category=Very_Economic,Decade=-0s} => {Wicket_Category=Four_Wickets}" 0.25 0.531914893617021 0.47 1.83418928833456 25
+"355" "{Economy_Category=Very_Economic,Tournament_Stage=League} => {Wicket_Category=Four_Wickets}" 0.25 0.531914893617021 0.47 1.83418928833456 25
+"739" "{Economy_Category=Very_Economic,Tournament_Stage=League,Decade=-0s} => {Wicket_Category=Four_Wickets}" 0.25 0.531914893617021 0.47 1.83418928833456 25
+"62" "{Wicket_Category=Four_Wickets} => {Economy_Category=Very_Economic}" 0.25 0.862068965517241 0.29 1.83418928833456 25
+"351" "{Wicket_Category=Four_Wickets,Decade=-0s} => {Economy_Category=Very_Economic}" 0.25 0.862068965517241 0.29 1.83418928833456 25
+"354" "{Wicket_Category=Four_Wickets,Tournament_Stage=League} => {Economy_Category=Very_Economic}" 0.25 0.862068965517241 0.29 1.83418928833456 25
+"738" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Decade=-0s} => {Economy_Category=Very_Economic}" 0.25 0.862068965517241 0.29 1.83418928833456 25
+"17" "{Team=Zimbabwe} => {Wicket_Category=Four_Wickets}" 0.01 0.5 0.02 1.72413793103448 1
+"126" "{Economy_Category=Very_Economic,Team=Zimbabwe} => {Wicket_Category=Four_Wickets}" 0.01 0.5 0.02 1.72413793103448 1
+"128" "{Decade=-0s,Team=Zimbabwe} => {Wicket_Category=Four_Wickets}" 0.01 0.5 0.02 1.72413793103448 1
+"130" "{Tournament_Stage=League,Team=Zimbabwe} => {Wicket_Category=Four_Wickets}" 0.01 0.5 0.02 1.72413793103448 1
+"165" "{Economy_Category=Very_Economic,Team=Bangladesh} => {Wicket_Category=Four_Wickets}" 0.01 0.5 0.02 1.72413793103448 1
+"182" "{Economy_Category=Economic,Team=Sri Lanka} => {Wicket_Category=Four_Wickets}" 0.01 0.5 0.02 1.72413793103448 1
+"184" "{Economy_Category=Very_Economic,Team=Sri Lanka} => {Wicket_Category=Four_Wickets}" 0.02 0.5 0.04 1.72413793103448 2
+"421" "{Economy_Category=Very_Economic,Decade=-0s,Team=Zimbabwe} => {Wicket_Category=Four_Wickets}" 0.01 0.5 0.02 1.72413793103448 1
+"424" "{Economy_Category=Very_Economic,Tournament_Stage=League,Team=Zimbabwe} => {Wicket_Category=Four_Wickets}" 0.01 0.5 0.02 1.72413793103448 1
+"427" "{Tournament_Stage=League,Decade=-0s,Team=Zimbabwe} => {Wicket_Category=Four_Wickets}" 0.01 0.5 0.02 1.72413793103448 1
+"475" "{Economy_Category=Very_Economic,Decade=-0s,Team=Bangladesh} => {Wicket_Category=Four_Wickets}" 0.01 0.5 0.02 1.72413793103448 1
+"478" "{Economy_Category=Very_Economic,Tournament_Stage=League,Team=Bangladesh} => {Wicket_Category=Four_Wickets}" 0.01 0.5 0.02 1.72413793103448 1
+"498" "{Economy_Category=Economic,Decade=-0s,Team=Sri Lanka} => {Wicket_Category=Four_Wickets}" 0.01 0.5 0.02 1.72413793103448 1
+"500" "{Economy_Category=Economic,Tournament_Stage=League,Team=Sri Lanka} => {Wicket_Category=Four_Wickets}" 0.01 0.5 0.02 1.72413793103448 1
+"503" "{Economy_Category=Very_Economic,Decade=-0s,Team=Sri Lanka} => {Wicket_Category=Four_Wickets}" 0.02 0.5 0.04 1.72413793103448 2
+"506" "{Economy_Category=Very_Economic,Tournament_Stage=League,Team=Sri Lanka} => {Wicket_Category=Four_Wickets}" 0.02 0.5 0.04 1.72413793103448 2
+"764" "{Economy_Category=Very_Economic,Tournament_Stage=League,Decade=-0s,Team=Zimbabwe} => {Wicket_Category=Four_Wickets}" 0.01 0.5 0.02 1.72413793103448 1
+"787" "{Economy_Category=Very_Economic,Tournament_Stage=League,Decade=-0s,Team=Bangladesh} => {Wicket_Category=Four_Wickets}" 0.01 0.5 0.02 1.72413793103448 1
+"796" "{Economy_Category=Economic,Tournament_Stage=League,Decade=-0s,Team=Sri Lanka} => {Wicket_Category=Four_Wickets}" 0.01 0.5 0.02 1.72413793103448 1
+"800" "{Economy_Category=Very_Economic,Tournament_Stage=League,Decade=-0s,Team=Sri Lanka} => {Wicket_Category=Four_Wickets}" 0.02 0.5 0.04 1.72413793103448 2
+"331" "{Wicket_Category=Four_Wickets,Team=Australia} => {Economy_Category=Very_Economic}" 0.03 0.75 0.04 1.59574468085106 3
+"713" "{Wicket_Category=Four_Wickets,Decade=-0s,Team=Australia} => {Economy_Category=Very_Economic}" 0.03 0.75 0.04 1.59574468085106 3
+"715" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=Australia} => {Economy_Category=Very_Economic}" 0.03 0.75 0.04 1.59574468085106 3
+"891" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Decade=-0s,Team=Australia} => {Economy_Category=Very_Economic}" 0.03 0.75 0.04 1.59574468085106 3
+"204" "{Wicket_Category=Four_Wickets,Team=West Indies} => {Economy_Category=Economic}" 0.01 0.5 0.02 1.51515151515152 1
+"271" "{Wicket_Category=Five_Plus,Team=Pakistan} => {Economy_Category=Economic}" 0.05 0.5 0.1 1.51515151515152 5
+"311" "{Wicket_Category=Five_Plus,Team=India} => {Economy_Category=Economic}" 0.05 0.5 0.1 1.51515151515152 5
+"532" "{Wicket_Category=Four_Wickets,Decade=-0s,Team=West Indies} => {Economy_Category=Economic}" 0.01 0.5 0.02 1.51515151515152 1
+"534" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=West Indies} => {Economy_Category=Economic}" 0.01 0.5 0.02 1.51515151515152 1
+"629" "{Wicket_Category=Five_Plus,Decade=-0s,Team=Pakistan} => {Economy_Category=Economic}" 0.05 0.5 0.1 1.51515151515152 5
+"632" "{Wicket_Category=Five_Plus,Tournament_Stage=League,Team=Pakistan} => {Economy_Category=Economic}" 0.05 0.5 0.1 1.51515151515152 5
+"688" "{Wicket_Category=Five_Plus,Decade=-0s,Team=India} => {Economy_Category=Economic}" 0.05 0.5 0.1 1.51515151515152 5
+"691" "{Wicket_Category=Five_Plus,Tournament_Stage=League,Team=India} => {Economy_Category=Economic}" 0.05 0.5 0.1 1.51515151515152 5
+"812" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Decade=-0s,Team=West Indies} => {Economy_Category=Economic}" 0.01 0.5 0.02 1.51515151515152 1
+"855" "{Wicket_Category=Five_Plus,Tournament_Stage=League,Decade=-0s,Team=Pakistan} => {Economy_Category=Economic}" 0.05 0.5 0.1 1.51515151515152 5
+"881" "{Wicket_Category=Five_Plus,Tournament_Stage=League,Decade=-0s,Team=India} => {Economy_Category=Economic}" 0.05 0.5 0.1 1.51515151515152 5
+"183" "{Wicket_Category=Four_Wickets,Team=Sri Lanka} => {Economy_Category=Very_Economic}" 0.02 0.666666666666667 0.03 1.41843971631206 2
+"246" "{Wicket_Category=Four_Wickets,Team=New Zealand} => {Economy_Category=Very_Economic}" 0.02 0.666666666666667 0.03 1.41843971631206 2
+"502" "{Wicket_Category=Four_Wickets,Decade=-0s,Team=Sri Lanka} => {Economy_Category=Very_Economic}" 0.02 0.666666666666667 0.03 1.41843971631206 2
+"505" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=Sri Lanka} => {Economy_Category=Very_Economic}" 0.02 0.666666666666667 0.03 1.41843971631206 2
+"592" "{Wicket_Category=Four_Wickets,Decade=-0s,Team=New Zealand} => {Economy_Category=Very_Economic}" 0.02 0.666666666666667 0.03 1.41843971631206 2
+"594" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=New Zealand} => {Economy_Category=Very_Economic}" 0.02 0.666666666666667 0.03 1.41843971631206 2
+"799" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Decade=-0s,Team=Sri Lanka} => {Economy_Category=Very_Economic}" 0.02 0.666666666666667 0.03 1.41843971631206 2
+"838" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Decade=-0s,Team=New Zealand} => {Economy_Category=Very_Economic}" 0.02 0.666666666666667 0.03 1.41843971631206 2
+"2" "{Team=U.A.E.} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"6" "{Team=Namibia} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"10" "{Team=Canada} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"14" "{Team=Kenya} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"22" "{Economy_Category=Expensive} => {Wicket_Category=Five_Plus}" 0.04 1 0.04 1.40845070422535 4
+"55" "{Economy_Category=Moderate} => {Wicket_Category=Five_Plus}" 0.16 1 0.16 1.40845070422535 16
+"77" "{Economy_Category=Very_Economic,Team=U.A.E.} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"84" "{Decade=-0s,Team=U.A.E.} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"86" "{Tournament_Stage=League,Team=U.A.E.} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"89" "{Economy_Category=Economic,Team=Namibia} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"96" "{Decade=-0s,Team=Namibia} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"98" "{Tournament_Stage=League,Team=Namibia} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"101" "{Economy_Category=Economic,Team=Canada} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"108" "{Decade=-0s,Team=Canada} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"110" "{Tournament_Stage=League,Team=Canada} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"113" "{Economy_Category=Very_Economic,Team=Kenya} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"120" "{Decade=-0s,Team=Kenya} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"122" "{Tournament_Stage=League,Team=Kenya} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"143" "{Economy_Category=Expensive,Team=Bangladesh} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"146" "{Economy_Category=Expensive,Team=Sri Lanka} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"149" "{Economy_Category=Expensive,Team=England} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"152" "{Economy_Category=Expensive,Team=India} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"156" "{Economy_Category=Expensive,Decade=-0s} => {Wicket_Category=Five_Plus}" 0.04 1 0.04 1.40845070422535 4
+"158" "{Economy_Category=Expensive,Tournament_Stage=League} => {Wicket_Category=Five_Plus}" 0.04 1 0.04 1.40845070422535 4
+"161" "{Economy_Category=Moderate,Team=Bangladesh} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"179" "{Economy_Category=Moderate,Team=Sri Lanka} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"201" "{Economy_Category=Moderate,Team=West Indies} => {Wicket_Category=Five_Plus}" 0.02 1 0.02 1.40845070422535 2
+"223" "{Economy_Category=Moderate,Team=England} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"232" "{Economy_Category=Economic,Team=England} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"243" "{Economy_Category=Moderate,Team=New Zealand} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"264" "{Economy_Category=Moderate,Team=Pakistan} => {Wicket_Category=Five_Plus}" 0.03 1 0.03 1.40845070422535 3
+"270" "{Economy_Category=Economic,Team=Pakistan} => {Wicket_Category=Five_Plus}" 0.05 1 0.05 1.40845070422535 5
+"283" "{Economy_Category=Moderate,Team=South Africa} => {Wicket_Category=Five_Plus}" 0.03 1 0.03 1.40845070422535 3
+"290" "{Economy_Category=Economic,Team=South Africa} => {Wicket_Category=Five_Plus}" 0.02 1 0.02 1.40845070422535 2
+"303" "{Economy_Category=Moderate,Team=India} => {Wicket_Category=Five_Plus}" 0.02 1 0.02 1.40845070422535 2
+"310" "{Economy_Category=Economic,Team=India} => {Wicket_Category=Five_Plus}" 0.05 1 0.05 1.40845070422535 5
+"322" "{Economy_Category=Moderate,Team=Australia} => {Wicket_Category=Five_Plus}" 0.02 1 0.02 1.40845070422535 2
+"326" "{Economy_Category=Moderate,Decade=-0s} => {Wicket_Category=Five_Plus}" 0.16 1 0.16 1.40845070422535 16
+"328" "{Economy_Category=Moderate,Tournament_Stage=League} => {Wicket_Category=Five_Plus}" 0.16 1 0.16 1.40845070422535 16
+"372" "{Economy_Category=Very_Economic,Decade=-0s,Team=U.A.E.} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"375" "{Economy_Category=Very_Economic,Tournament_Stage=League,Team=U.A.E.} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"382" "{Tournament_Stage=League,Decade=-0s,Team=U.A.E.} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"384" "{Economy_Category=Economic,Decade=-0s,Team=Namibia} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"387" "{Economy_Category=Economic,Tournament_Stage=League,Team=Namibia} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"394" "{Tournament_Stage=League,Decade=-0s,Team=Namibia} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"396" "{Economy_Category=Economic,Decade=-0s,Team=Canada} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"399" "{Economy_Category=Economic,Tournament_Stage=League,Team=Canada} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"406" "{Tournament_Stage=League,Decade=-0s,Team=Canada} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"408" "{Economy_Category=Very_Economic,Decade=-0s,Team=Kenya} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"411" "{Economy_Category=Very_Economic,Tournament_Stage=League,Team=Kenya} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"418" "{Tournament_Stage=League,Decade=-0s,Team=Kenya} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"441" "{Economy_Category=Expensive,Decade=-0s,Team=Bangladesh} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"443" "{Economy_Category=Expensive,Tournament_Stage=League,Team=Bangladesh} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"447" "{Economy_Category=Expensive,Decade=-0s,Team=Sri Lanka} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"449" "{Economy_Category=Expensive,Tournament_Stage=League,Team=Sri Lanka} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"453" "{Economy_Category=Expensive,Decade=-0s,Team=England} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"455" "{Economy_Category=Expensive,Tournament_Stage=League,Team=England} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"459" "{Economy_Category=Expensive,Decade=-0s,Team=India} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"461" "{Economy_Category=Expensive,Tournament_Stage=League,Team=India} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"466" "{Economy_Category=Expensive,Tournament_Stage=League,Decade=-0s} => {Wicket_Category=Five_Plus}" 0.04 1 0.04 1.40845070422535 4
+"468" "{Economy_Category=Moderate,Decade=-0s,Team=Bangladesh} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"470" "{Economy_Category=Moderate,Tournament_Stage=League,Team=Bangladesh} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"492" "{Economy_Category=Moderate,Decade=-0s,Team=Sri Lanka} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"494" "{Economy_Category=Moderate,Tournament_Stage=League,Team=Sri Lanka} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"526" "{Economy_Category=Moderate,Decade=-0s,Team=West Indies} => {Wicket_Category=Five_Plus}" 0.02 1 0.02 1.40845070422535 2
+"528" "{Economy_Category=Moderate,Tournament_Stage=League,Team=West Indies} => {Wicket_Category=Five_Plus}" 0.02 1 0.02 1.40845070422535 2
+"558" "{Economy_Category=Moderate,Decade=-0s,Team=England} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"560" "{Economy_Category=Moderate,Tournament_Stage=League,Team=England} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"573" "{Economy_Category=Economic,Decade=-0s,Team=England} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"575" "{Economy_Category=Economic,Tournament_Stage=League,Team=England} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"584" "{Economy_Category=Moderate,Decade=-0s,Team=New Zealand} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"586" "{Economy_Category=Moderate,Tournament_Stage=League,Team=New Zealand} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"616" "{Economy_Category=Moderate,Decade=-0s,Team=Pakistan} => {Wicket_Category=Five_Plus}" 0.03 1 0.03 1.40845070422535 3
+"618" "{Economy_Category=Moderate,Tournament_Stage=League,Team=Pakistan} => {Wicket_Category=Five_Plus}" 0.03 1 0.03 1.40845070422535 3
+"628" "{Economy_Category=Economic,Decade=-0s,Team=Pakistan} => {Wicket_Category=Five_Plus}" 0.05 1 0.05 1.40845070422535 5
+"631" "{Economy_Category=Economic,Tournament_Stage=League,Team=Pakistan} => {Wicket_Category=Five_Plus}" 0.05 1 0.05 1.40845070422535 5
+"645" "{Economy_Category=Moderate,Decade=-0s,Team=South Africa} => {Wicket_Category=Five_Plus}" 0.03 1 0.03 1.40845070422535 3
+"647" "{Economy_Category=Moderate,Tournament_Stage=League,Team=South Africa} => {Wicket_Category=Five_Plus}" 0.03 1 0.03 1.40845070422535 3
+"659" "{Economy_Category=Economic,Decade=-0s,Team=South Africa} => {Wicket_Category=Five_Plus}" 0.02 1 0.02 1.40845070422535 2
+"661" "{Economy_Category=Economic,Tournament_Stage=League,Team=South Africa} => {Wicket_Category=Five_Plus}" 0.02 1 0.02 1.40845070422535 2
+"673" "{Economy_Category=Moderate,Decade=-0s,Team=India} => {Wicket_Category=Five_Plus}" 0.02 1 0.02 1.40845070422535 2
+"675" "{Economy_Category=Moderate,Tournament_Stage=League,Team=India} => {Wicket_Category=Five_Plus}" 0.02 1 0.02 1.40845070422535 2
+"687" "{Economy_Category=Economic,Decade=-0s,Team=India} => {Wicket_Category=Five_Plus}" 0.05 1 0.05 1.40845070422535 5
+"690" "{Economy_Category=Economic,Tournament_Stage=League,Team=India} => {Wicket_Category=Five_Plus}" 0.05 1 0.05 1.40845070422535 5
+"702" "{Economy_Category=Moderate,Decade=-0s,Team=Australia} => {Wicket_Category=Five_Plus}" 0.02 1 0.02 1.40845070422535 2
+"704" "{Economy_Category=Moderate,Tournament_Stage=League,Team=Australia} => {Wicket_Category=Five_Plus}" 0.02 1 0.02 1.40845070422535 2
+"709" "{Economy_Category=Moderate,Tournament_Stage=League,Decade=-0s} => {Wicket_Category=Five_Plus}" 0.16 1 0.16 1.40845070422535 16
+"747" "{Economy_Category=Very_Economic,Tournament_Stage=League,Decade=-0s,Team=U.A.E.} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"751" "{Economy_Category=Economic,Tournament_Stage=League,Decade=-0s,Team=Namibia} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"755" "{Economy_Category=Economic,Tournament_Stage=League,Decade=-0s,Team=Canada} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"759" "{Economy_Category=Very_Economic,Tournament_Stage=League,Decade=-0s,Team=Kenya} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"771" "{Economy_Category=Expensive,Tournament_Stage=League,Decade=-0s,Team=Bangladesh} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"774" "{Economy_Category=Expensive,Tournament_Stage=League,Decade=-0s,Team=Sri Lanka} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"777" "{Economy_Category=Expensive,Tournament_Stage=League,Decade=-0s,Team=England} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"780" "{Economy_Category=Expensive,Tournament_Stage=League,Decade=-0s,Team=India} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"783" "{Economy_Category=Moderate,Tournament_Stage=League,Decade=-0s,Team=Bangladesh} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"793" "{Economy_Category=Moderate,Tournament_Stage=League,Decade=-0s,Team=Sri Lanka} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"809" "{Economy_Category=Moderate,Tournament_Stage=League,Decade=-0s,Team=West Indies} => {Wicket_Category=Five_Plus}" 0.02 1 0.02 1.40845070422535 2
+"823" "{Economy_Category=Moderate,Tournament_Stage=League,Decade=-0s,Team=England} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"830" "{Economy_Category=Economic,Tournament_Stage=League,Decade=-0s,Team=England} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"833" "{Economy_Category=Moderate,Tournament_Stage=League,Decade=-0s,Team=New Zealand} => {Wicket_Category=Five_Plus}" 0.01 1 0.01 1.40845070422535 1
+"848" "{Economy_Category=Moderate,Tournament_Stage=League,Decade=-0s,Team=Pakistan} => {Wicket_Category=Five_Plus}" 0.03 1 0.03 1.40845070422535 3
+"854" "{Economy_Category=Economic,Tournament_Stage=League,Decade=-0s,Team=Pakistan} => {Wicket_Category=Five_Plus}" 0.05 1 0.05 1.40845070422535 5
+"861" "{Economy_Category=Moderate,Tournament_Stage=League,Decade=-0s,Team=South Africa} => {Wicket_Category=Five_Plus}" 0.03 1 0.03 1.40845070422535 3
+"868" "{Economy_Category=Economic,Tournament_Stage=League,Decade=-0s,Team=South Africa} => {Wicket_Category=Five_Plus}" 0.02 1 0.02 1.40845070422535 2
+"873" "{Economy_Category=Moderate,Tournament_Stage=League,Decade=-0s,Team=India} => {Wicket_Category=Five_Plus}" 0.02 1 0.02 1.40845070422535 2
+"880" "{Economy_Category=Economic,Tournament_Stage=League,Decade=-0s,Team=India} => {Wicket_Category=Five_Plus}" 0.05 1 0.05 1.40845070422535 5
+"886" "{Economy_Category=Moderate,Tournament_Stage=League,Decade=-0s,Team=Australia} => {Wicket_Category=Five_Plus}" 0.02 1 0.02 1.40845070422535 2
+"38" "{Team=England} => {Economy_Category=Very_Economic}" 0.05 0.625 0.08 1.32978723404255 5
+"236" "{Decade=-0s,Team=England} => {Economy_Category=Very_Economic}" 0.05 0.625 0.08 1.32978723404255 5
+"238" "{Tournament_Stage=League,Team=England} => {Economy_Category=Very_Economic}" 0.05 0.625 0.08 1.32978723404255 5
+"580" "{Tournament_Stage=League,Decade=-0s,Team=England} => {Economy_Category=Very_Economic}" 0.05 0.625 0.08 1.32978723404255 5
+"45" "{Team=Pakistan} => {Wicket_Category=Five_Plus}" 0.1 0.909090909090909 0.11 1.28040973111396 10
+"278" "{Decade=-0s,Team=Pakistan} => {Wicket_Category=Five_Plus}" 0.1 0.909090909090909 0.11 1.28040973111396 10
+"280" "{Tournament_Stage=League,Team=Pakistan} => {Wicket_Category=Five_Plus}" 0.1 0.909090909090909 0.11 1.28040973111396 10
+"643" "{Tournament_Stage=League,Decade=-0s,Team=Pakistan} => {Wicket_Category=Five_Plus}" 0.1 0.909090909090909 0.11 1.28040973111396 10
+"48" "{Team=South Africa} => {Economy_Category=Very_Economic}" 0.07 0.583333333333333 0.12 1.24113475177305 7
+"294" "{Decade=-0s,Team=South Africa} => {Economy_Category=Very_Economic}" 0.07 0.583333333333333 0.12 1.24113475177305 7
+"296" "{Tournament_Stage=League,Team=South Africa} => {Economy_Category=Very_Economic}" 0.07 0.583333333333333 0.12 1.24113475177305 7
+"668" "{Tournament_Stage=League,Decade=-0s,Team=South Africa} => {Economy_Category=Very_Economic}" 0.07 0.583333333333333 0.12 1.24113475177305 7
+"66" "{Economy_Category=Economic} => {Wicket_Category=Five_Plus}" 0.29 0.878787878787879 0.33 1.23772940674349 29
+"359" "{Economy_Category=Economic,Decade=-0s} => {Wicket_Category=Five_Plus}" 0.29 0.878787878787879 0.33 1.23772940674349 29
+"361" "{Economy_Category=Economic,Tournament_Stage=League} => {Wicket_Category=Five_Plus}" 0.29 0.878787878787879 0.33 1.23772940674349 29
+"742" "{Economy_Category=Economic,Tournament_Stage=League,Decade=-0s} => {Wicket_Category=Five_Plus}" 0.29 0.878787878787879 0.33 1.23772940674349 29
+"334" "{Economy_Category=Economic,Team=Australia} => {Wicket_Category=Five_Plus}" 0.07 0.875 0.08 1.23239436619718 7
+"719" "{Economy_Category=Economic,Decade=-0s,Team=Australia} => {Wicket_Category=Five_Plus}" 0.07 0.875 0.08 1.23239436619718 7
+"721" "{Economy_Category=Economic,Tournament_Stage=League,Team=Australia} => {Wicket_Category=Five_Plus}" 0.07 0.875 0.08 1.23239436619718 7
+"894" "{Economy_Category=Economic,Tournament_Stage=League,Decade=-0s,Team=Australia} => {Wicket_Category=Five_Plus}" 0.07 0.875 0.08 1.23239436619718 7
+"41" "{Team=New Zealand} => {Economy_Category=Very_Economic}" 0.05 0.555555555555556 0.09 1.18203309692671 5
+"255" "{Decade=-0s,Team=New Zealand} => {Economy_Category=Very_Economic}" 0.05 0.555555555555556 0.09 1.18203309692671 5
+"257" "{Tournament_Stage=League,Team=New Zealand} => {Economy_Category=Very_Economic}" 0.05 0.555555555555556 0.09 1.18203309692671 5
+"611" "{Tournament_Stage=League,Decade=-0s,Team=New Zealand} => {Economy_Category=Very_Economic}" 0.05 0.555555555555556 0.09 1.18203309692671 5
+"59" "{Team=Australia} => {Wicket_Category=Five_Plus}" 0.16 0.8 0.2 1.12676056338028 16
+"209" "{Economy_Category=Economic,Team=West Indies} => {Wicket_Category=Five_Plus}" 0.04 0.8 0.05 1.12676056338028 4
+"343" "{Decade=-0s,Team=Australia} => {Wicket_Category=Five_Plus}" 0.16 0.8 0.2 1.12676056338028 16
+"345" "{Tournament_Stage=League,Team=Australia} => {Wicket_Category=Five_Plus}" 0.16 0.8 0.2 1.12676056338028 16
+"544" "{Economy_Category=Economic,Decade=-0s,Team=West Indies} => {Wicket_Category=Five_Plus}" 0.04 0.8 0.05 1.12676056338028 4
+"547" "{Economy_Category=Economic,Tournament_Stage=League,Team=West Indies} => {Wicket_Category=Five_Plus}" 0.04 0.8 0.05 1.12676056338028 4
+"733" "{Tournament_Stage=League,Decade=-0s,Team=Australia} => {Wicket_Category=Five_Plus}" 0.16 0.8 0.2 1.12676056338028 16
+"819" "{Economy_Category=Economic,Tournament_Stage=League,Decade=-0s,Team=West Indies} => {Wicket_Category=Five_Plus}" 0.04 0.8 0.05 1.12676056338028 4
+"25" "{Team=Bangladesh} => {Economy_Category=Very_Economic}" 0.02 0.5 0.04 1.06382978723404 2
+"29" "{Team=Sri Lanka} => {Economy_Category=Very_Economic}" 0.04 0.5 0.08 1.06382978723404 4
+"58" "{Team=Australia} => {Economy_Category=Very_Economic}" 0.1 0.5 0.2 1.06382978723404 10
+"170" "{Decade=-0s,Team=Bangladesh} => {Economy_Category=Very_Economic}" 0.02 0.5 0.04 1.06382978723404 2
+"172" "{Tournament_Stage=League,Team=Bangladesh} => {Economy_Category=Very_Economic}" 0.02 0.5 0.04 1.06382978723404 2
+"192" "{Decade=-0s,Team=Sri Lanka} => {Economy_Category=Very_Economic}" 0.04 0.5 0.08 1.06382978723404 4
+"194" "{Tournament_Stage=League,Team=Sri Lanka} => {Economy_Category=Very_Economic}" 0.04 0.5 0.08 1.06382978723404 4
+"205" "{Wicket_Category=Four_Wickets,Team=West Indies} => {Economy_Category=Very_Economic}" 0.01 0.5 0.02 1.06382978723404 1
+"253" "{Wicket_Category=Five_Plus,Team=New Zealand} => {Economy_Category=Very_Economic}" 0.03 0.5 0.06 1.06382978723404 3
+"339" "{Decade=-0s,Team=Australia} => {Economy_Category=Very_Economic}" 0.1 0.5 0.2 1.06382978723404 10
+"341" "{Tournament_Stage=League,Team=Australia} => {Economy_Category=Very_Economic}" 0.1 0.5 0.2 1.06382978723404 10
+"487" "{Tournament_Stage=League,Decade=-0s,Team=Bangladesh} => {Economy_Category=Very_Economic}" 0.02 0.5 0.04 1.06382978723404 2
+"521" "{Tournament_Stage=League,Decade=-0s,Team=Sri Lanka} => {Economy_Category=Very_Economic}" 0.04 0.5 0.08 1.06382978723404 4
+"536" "{Wicket_Category=Four_Wickets,Decade=-0s,Team=West Indies} => {Economy_Category=Very_Economic}" 0.01 0.5 0.02 1.06382978723404 1
+"539" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=West Indies} => {Economy_Category=Very_Economic}" 0.01 0.5 0.02 1.06382978723404 1
+"605" "{Wicket_Category=Five_Plus,Decade=-0s,Team=New Zealand} => {Economy_Category=Very_Economic}" 0.03 0.5 0.06 1.06382978723404 3
+"608" "{Wicket_Category=Five_Plus,Tournament_Stage=League,Team=New Zealand} => {Economy_Category=Very_Economic}" 0.03 0.5 0.06 1.06382978723404 3
+"730" "{Tournament_Stage=League,Decade=-0s,Team=Australia} => {Economy_Category=Very_Economic}" 0.1 0.5 0.2 1.06382978723404 10
+"815" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Decade=-0s,Team=West Indies} => {Economy_Category=Very_Economic}" 0.01 0.5 0.02 1.06382978723404 1
+"845" "{Wicket_Category=Five_Plus,Tournament_Stage=League,Decade=-0s,Team=New Zealand} => {Economy_Category=Very_Economic}" 0.03 0.5 0.06 1.06382978723404 3
+"26" "{Team=Bangladesh} => {Wicket_Category=Five_Plus}" 0.03 0.75 0.04 1.05633802816901 3
+"34" "{Team=West Indies} => {Wicket_Category=Five_Plus}" 0.06 0.75 0.08 1.05633802816901 6
+"174" "{Decade=-0s,Team=Bangladesh} => {Wicket_Category=Five_Plus}" 0.03 0.75 0.04 1.05633802816901 3
+"176" "{Tournament_Stage=League,Team=Bangladesh} => {Wicket_Category=Five_Plus}" 0.03 0.75 0.04 1.05633802816901 3
+"218" "{Decade=-0s,Team=West Indies} => {Wicket_Category=Five_Plus}" 0.06 0.75 0.08 1.05633802816901 6
+"220" "{Tournament_Stage=League,Team=West Indies} => {Wicket_Category=Five_Plus}" 0.06 0.75 0.08 1.05633802816901 6
+"490" "{Tournament_Stage=League,Decade=-0s,Team=Bangladesh} => {Wicket_Category=Five_Plus}" 0.03 0.75 0.04 1.05633802816901 3
+"556" "{Tournament_Stage=League,Decade=-0s,Team=West Indies} => {Wicket_Category=Five_Plus}" 0.06 0.75 0.08 1.05633802816901 6
+"52" "{Team=India} => {Wicket_Category=Five_Plus}" 0.1 0.714285714285714 0.14 1.00603621730382 10
+"317" "{Decade=-0s,Team=India} => {Wicket_Category=Five_Plus}" 0.1 0.714285714285714 0.14 1.00603621730382 10
+"319" "{Tournament_Stage=League,Team=India} => {Wicket_Category=Five_Plus}" 0.1 0.714285714285714 0.14 1.00603621730382 10
+"700" "{Tournament_Stage=League,Decade=-0s,Team=India} => {Wicket_Category=Five_Plus}" 0.1 0.714285714285714 0.14 1.00603621730382 10
+"3" "{Team=U.A.E.} => {Decade=-0s}" 0.01 1 0.01 1 1
+"4" "{Team=U.A.E.} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"7" "{Team=Namibia} => {Decade=-0s}" 0.01 1 0.01 1 1
+"8" "{Team=Namibia} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"11" "{Team=Canada} => {Decade=-0s}" 0.01 1 0.01 1 1
+"12" "{Team=Canada} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"15" "{Team=Kenya} => {Decade=-0s}" 0.01 1 0.01 1 1
+"16" "{Team=Kenya} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"20" "{Team=Zimbabwe} => {Decade=-0s}" 0.02 1 0.02 1 2
+"21" "{Team=Zimbabwe} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"23" "{Economy_Category=Expensive} => {Decade=-0s}" 0.04 1 0.04 1 4
+"24" "{Economy_Category=Expensive} => {Tournament_Stage=League}" 0.04 1 0.04 1 4
+"27" "{Team=Bangladesh} => {Decade=-0s}" 0.04 1 0.04 1 4
+"28" "{Team=Bangladesh} => {Tournament_Stage=League}" 0.04 1 0.04 1 4
+"31" "{Team=Sri Lanka} => {Decade=-0s}" 0.08 1 0.08 1 8
+"32" "{Team=Sri Lanka} => {Tournament_Stage=League}" 0.08 1 0.08 1 8
+"35" "{Team=West Indies} => {Decade=-0s}" 0.08 1 0.08 1 8
+"36" "{Team=West Indies} => {Tournament_Stage=League}" 0.08 1 0.08 1 8
+"39" "{Team=England} => {Decade=-0s}" 0.08 1 0.08 1 8
+"40" "{Team=England} => {Tournament_Stage=League}" 0.08 1 0.08 1 8
+"43" "{Team=New Zealand} => {Decade=-0s}" 0.09 1 0.09 1 9
+"44" "{Team=New Zealand} => {Tournament_Stage=League}" 0.09 1 0.09 1 9
+"46" "{Team=Pakistan} => {Decade=-0s}" 0.11 1 0.11 1 11
+"47" "{Team=Pakistan} => {Tournament_Stage=League}" 0.11 1 0.11 1 11
+"50" "{Team=South Africa} => {Decade=-0s}" 0.12 1 0.12 1 12
+"51" "{Team=South Africa} => {Tournament_Stage=League}" 0.12 1 0.12 1 12
+"53" "{Team=India} => {Decade=-0s}" 0.14 1 0.14 1 14
+"54" "{Team=India} => {Tournament_Stage=League}" 0.14 1 0.14 1 14
+"56" "{Economy_Category=Moderate} => {Decade=-0s}" 0.16 1 0.16 1 16
+"57" "{Economy_Category=Moderate} => {Tournament_Stage=League}" 0.16 1 0.16 1 16
+"60" "{Team=Australia} => {Decade=-0s}" 0.2 1 0.2 1 20
+"61" "{Team=Australia} => {Tournament_Stage=League}" 0.2 1 0.2 1 20
+"64" "{Wicket_Category=Four_Wickets} => {Decade=-0s}" 0.29 1 0.29 1 29
+"65" "{Wicket_Category=Four_Wickets} => {Tournament_Stage=League}" 0.29 1 0.29 1 29
+"67" "{Economy_Category=Economic} => {Decade=-0s}" 0.33 1 0.33 1 33
+"68" "{Economy_Category=Economic} => {Tournament_Stage=League}" 0.33 1 0.33 1 33
+"69" "{Economy_Category=Very_Economic} => {Decade=-0s}" 0.47 1 0.47 1 47
+"70" "{Economy_Category=Very_Economic} => {Tournament_Stage=League}" 0.47 1 0.47 1 47
+"71" "{Wicket_Category=Five_Plus} => {Decade=-0s}" 0.71 1 0.71 1 71
+"72" "{Decade=-0s} => {Wicket_Category=Five_Plus}" 0.71 0.71 1 1 71
+"73" "{Wicket_Category=Five_Plus} => {Tournament_Stage=League}" 0.71 1 0.71 1 71
+"74" "{Tournament_Stage=League} => {Wicket_Category=Five_Plus}" 0.71 0.71 1 1 71
+"75" "{Decade=-0s} => {Tournament_Stage=League}" 1 1 1 1 100
+"76" "{Tournament_Stage=League} => {Decade=-0s}" 1 1 1 1 100
+"79" "{Economy_Category=Very_Economic,Team=U.A.E.} => {Decade=-0s}" 0.01 1 0.01 1 1
+"81" "{Economy_Category=Very_Economic,Team=U.A.E.} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"83" "{Wicket_Category=Five_Plus,Team=U.A.E.} => {Decade=-0s}" 0.01 1 0.01 1 1
+"85" "{Wicket_Category=Five_Plus,Team=U.A.E.} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"87" "{Decade=-0s,Team=U.A.E.} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"88" "{Tournament_Stage=League,Team=U.A.E.} => {Decade=-0s}" 0.01 1 0.01 1 1
+"91" "{Economy_Category=Economic,Team=Namibia} => {Decade=-0s}" 0.01 1 0.01 1 1
+"93" "{Economy_Category=Economic,Team=Namibia} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"95" "{Wicket_Category=Five_Plus,Team=Namibia} => {Decade=-0s}" 0.01 1 0.01 1 1
+"97" "{Wicket_Category=Five_Plus,Team=Namibia} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"99" "{Decade=-0s,Team=Namibia} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"100" "{Tournament_Stage=League,Team=Namibia} => {Decade=-0s}" 0.01 1 0.01 1 1
+"103" "{Economy_Category=Economic,Team=Canada} => {Decade=-0s}" 0.01 1 0.01 1 1
+"105" "{Economy_Category=Economic,Team=Canada} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"107" "{Wicket_Category=Five_Plus,Team=Canada} => {Decade=-0s}" 0.01 1 0.01 1 1
+"109" "{Wicket_Category=Five_Plus,Team=Canada} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"111" "{Decade=-0s,Team=Canada} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"112" "{Tournament_Stage=League,Team=Canada} => {Decade=-0s}" 0.01 1 0.01 1 1
+"115" "{Economy_Category=Very_Economic,Team=Kenya} => {Decade=-0s}" 0.01 1 0.01 1 1
+"117" "{Economy_Category=Very_Economic,Team=Kenya} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"119" "{Wicket_Category=Five_Plus,Team=Kenya} => {Decade=-0s}" 0.01 1 0.01 1 1
+"121" "{Wicket_Category=Five_Plus,Team=Kenya} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"123" "{Decade=-0s,Team=Kenya} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"124" "{Tournament_Stage=League,Team=Kenya} => {Decade=-0s}" 0.01 1 0.01 1 1
+"127" "{Wicket_Category=Four_Wickets,Team=Zimbabwe} => {Decade=-0s}" 0.01 1 0.01 1 1
+"129" "{Wicket_Category=Four_Wickets,Team=Zimbabwe} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"133" "{Economy_Category=Very_Economic,Team=Zimbabwe} => {Decade=-0s}" 0.02 1 0.02 1 2
+"135" "{Economy_Category=Very_Economic,Team=Zimbabwe} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"137" "{Wicket_Category=Five_Plus,Team=Zimbabwe} => {Decade=-0s}" 0.01 1 0.01 1 1
+"139" "{Wicket_Category=Five_Plus,Team=Zimbabwe} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"141" "{Decade=-0s,Team=Zimbabwe} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"142" "{Tournament_Stage=League,Team=Zimbabwe} => {Decade=-0s}" 0.02 1 0.02 1 2
+"144" "{Economy_Category=Expensive,Team=Bangladesh} => {Decade=-0s}" 0.01 1 0.01 1 1
+"145" "{Economy_Category=Expensive,Team=Bangladesh} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"147" "{Economy_Category=Expensive,Team=Sri Lanka} => {Decade=-0s}" 0.01 1 0.01 1 1
+"148" "{Economy_Category=Expensive,Team=Sri Lanka} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"150" "{Economy_Category=Expensive,Team=England} => {Decade=-0s}" 0.01 1 0.01 1 1
+"151" "{Economy_Category=Expensive,Team=England} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"153" "{Economy_Category=Expensive,Team=India} => {Decade=-0s}" 0.01 1 0.01 1 1
+"154" "{Economy_Category=Expensive,Team=India} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"155" "{Economy_Category=Expensive,Wicket_Category=Five_Plus} => {Decade=-0s}" 0.04 1 0.04 1 4
+"157" "{Economy_Category=Expensive,Wicket_Category=Five_Plus} => {Tournament_Stage=League}" 0.04 1 0.04 1 4
+"159" "{Economy_Category=Expensive,Decade=-0s} => {Tournament_Stage=League}" 0.04 1 0.04 1 4
+"160" "{Economy_Category=Expensive,Tournament_Stage=League} => {Decade=-0s}" 0.04 1 0.04 1 4
+"162" "{Economy_Category=Moderate,Team=Bangladesh} => {Decade=-0s}" 0.01 1 0.01 1 1
+"163" "{Economy_Category=Moderate,Team=Bangladesh} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"166" "{Wicket_Category=Four_Wickets,Team=Bangladesh} => {Decade=-0s}" 0.01 1 0.01 1 1
+"167" "{Wicket_Category=Four_Wickets,Team=Bangladesh} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"169" "{Economy_Category=Very_Economic,Team=Bangladesh} => {Decade=-0s}" 0.02 1 0.02 1 2
+"171" "{Economy_Category=Very_Economic,Team=Bangladesh} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"173" "{Wicket_Category=Five_Plus,Team=Bangladesh} => {Decade=-0s}" 0.03 1 0.03 1 3
+"175" "{Wicket_Category=Five_Plus,Team=Bangladesh} => {Tournament_Stage=League}" 0.03 1 0.03 1 3
+"177" "{Decade=-0s,Team=Bangladesh} => {Tournament_Stage=League}" 0.04 1 0.04 1 4
+"178" "{Tournament_Stage=League,Team=Bangladesh} => {Decade=-0s}" 0.04 1 0.04 1 4
+"180" "{Economy_Category=Moderate,Team=Sri Lanka} => {Decade=-0s}" 0.01 1 0.01 1 1
+"181" "{Economy_Category=Moderate,Team=Sri Lanka} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"185" "{Wicket_Category=Four_Wickets,Team=Sri Lanka} => {Decade=-0s}" 0.03 1 0.03 1 3
+"186" "{Wicket_Category=Four_Wickets,Team=Sri Lanka} => {Tournament_Stage=League}" 0.03 1 0.03 1 3
+"188" "{Economy_Category=Economic,Team=Sri Lanka} => {Decade=-0s}" 0.02 1 0.02 1 2
+"189" "{Economy_Category=Economic,Team=Sri Lanka} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"191" "{Economy_Category=Very_Economic,Team=Sri Lanka} => {Decade=-0s}" 0.04 1 0.04 1 4
+"193" "{Economy_Category=Very_Economic,Team=Sri Lanka} => {Tournament_Stage=League}" 0.04 1 0.04 1 4
+"195" "{Wicket_Category=Five_Plus,Team=Sri Lanka} => {Decade=-0s}" 0.05 1 0.05 1 5
+"197" "{Wicket_Category=Five_Plus,Team=Sri Lanka} => {Tournament_Stage=League}" 0.05 1 0.05 1 5
+"199" "{Decade=-0s,Team=Sri Lanka} => {Tournament_Stage=League}" 0.08 1 0.08 1 8
+"200" "{Tournament_Stage=League,Team=Sri Lanka} => {Decade=-0s}" 0.08 1 0.08 1 8
+"202" "{Economy_Category=Moderate,Team=West Indies} => {Decade=-0s}" 0.02 1 0.02 1 2
+"203" "{Economy_Category=Moderate,Team=West Indies} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"207" "{Wicket_Category=Four_Wickets,Team=West Indies} => {Decade=-0s}" 0.02 1 0.02 1 2
+"208" "{Wicket_Category=Four_Wickets,Team=West Indies} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"211" "{Economy_Category=Economic,Team=West Indies} => {Decade=-0s}" 0.05 1 0.05 1 5
+"213" "{Economy_Category=Economic,Team=West Indies} => {Tournament_Stage=League}" 0.05 1 0.05 1 5
+"215" "{Economy_Category=Very_Economic,Team=West Indies} => {Decade=-0s}" 0.01 1 0.01 1 1
+"216" "{Economy_Category=Very_Economic,Team=West Indies} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"217" "{Wicket_Category=Five_Plus,Team=West Indies} => {Decade=-0s}" 0.06 1 0.06 1 6
+"219" "{Wicket_Category=Five_Plus,Team=West Indies} => {Tournament_Stage=League}" 0.06 1 0.06 1 6
+"221" "{Decade=-0s,Team=West Indies} => {Tournament_Stage=League}" 0.08 1 0.08 1 8
+"222" "{Tournament_Stage=League,Team=West Indies} => {Decade=-0s}" 0.08 1 0.08 1 8
+"224" "{Economy_Category=Moderate,Team=England} => {Decade=-0s}" 0.01 1 0.01 1 1
+"225" "{Economy_Category=Moderate,Team=England} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"228" "{Wicket_Category=Four_Wickets,Team=England} => {Decade=-0s}" 0.05 1 0.05 1 5
+"230" "{Wicket_Category=Four_Wickets,Team=England} => {Tournament_Stage=League}" 0.05 1 0.05 1 5
+"233" "{Economy_Category=Economic,Team=England} => {Decade=-0s}" 0.01 1 0.01 1 1
+"234" "{Economy_Category=Economic,Team=England} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"235" "{Economy_Category=Very_Economic,Team=England} => {Decade=-0s}" 0.05 1 0.05 1 5
+"237" "{Economy_Category=Very_Economic,Team=England} => {Tournament_Stage=League}" 0.05 1 0.05 1 5
+"239" "{Wicket_Category=Five_Plus,Team=England} => {Decade=-0s}" 0.03 1 0.03 1 3
+"240" "{Wicket_Category=Five_Plus,Team=England} => {Tournament_Stage=League}" 0.03 1 0.03 1 3
+"241" "{Decade=-0s,Team=England} => {Tournament_Stage=League}" 0.08 1 0.08 1 8
+"242" "{Tournament_Stage=League,Team=England} => {Decade=-0s}" 0.08 1 0.08 1 8
+"244" "{Economy_Category=Moderate,Team=New Zealand} => {Decade=-0s}" 0.01 1 0.01 1 1
+"245" "{Economy_Category=Moderate,Team=New Zealand} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"247" "{Wicket_Category=Four_Wickets,Team=New Zealand} => {Decade=-0s}" 0.03 1 0.03 1 3
+"248" "{Wicket_Category=Four_Wickets,Team=New Zealand} => {Tournament_Stage=League}" 0.03 1 0.03 1 3
+"250" "{Economy_Category=Economic,Team=New Zealand} => {Decade=-0s}" 0.03 1 0.03 1 3
+"251" "{Economy_Category=Economic,Team=New Zealand} => {Tournament_Stage=League}" 0.03 1 0.03 1 3
+"254" "{Economy_Category=Very_Economic,Team=New Zealand} => {Decade=-0s}" 0.05 1 0.05 1 5
+"256" "{Economy_Category=Very_Economic,Team=New Zealand} => {Tournament_Stage=League}" 0.05 1 0.05 1 5
+"258" "{Wicket_Category=Five_Plus,Team=New Zealand} => {Decade=-0s}" 0.06 1 0.06 1 6
+"260" "{Wicket_Category=Five_Plus,Team=New Zealand} => {Tournament_Stage=League}" 0.06 1 0.06 1 6
+"262" "{Decade=-0s,Team=New Zealand} => {Tournament_Stage=League}" 0.09 1 0.09 1 9
+"263" "{Tournament_Stage=League,Team=New Zealand} => {Decade=-0s}" 0.09 1 0.09 1 9
+"265" "{Economy_Category=Moderate,Team=Pakistan} => {Decade=-0s}" 0.03 1 0.03 1 3
+"266" "{Economy_Category=Moderate,Team=Pakistan} => {Tournament_Stage=League}" 0.03 1 0.03 1 3
+"268" "{Wicket_Category=Four_Wickets,Team=Pakistan} => {Decade=-0s}" 0.01 1 0.01 1 1
+"269" "{Wicket_Category=Four_Wickets,Team=Pakistan} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"272" "{Economy_Category=Economic,Team=Pakistan} => {Decade=-0s}" 0.05 1 0.05 1 5
+"273" "{Economy_Category=Economic,Team=Pakistan} => {Tournament_Stage=League}" 0.05 1 0.05 1 5
+"275" "{Economy_Category=Very_Economic,Team=Pakistan} => {Decade=-0s}" 0.03 1 0.03 1 3
+"276" "{Economy_Category=Very_Economic,Team=Pakistan} => {Tournament_Stage=League}" 0.03 1 0.03 1 3
+"277" "{Wicket_Category=Five_Plus,Team=Pakistan} => {Decade=-0s}" 0.1 1 0.1 1 10
+"279" "{Wicket_Category=Five_Plus,Team=Pakistan} => {Tournament_Stage=League}" 0.1 1 0.1 1 10
+"281" "{Decade=-0s,Team=Pakistan} => {Tournament_Stage=League}" 0.11 1 0.11 1 11
+"282" "{Tournament_Stage=League,Team=Pakistan} => {Decade=-0s}" 0.11 1 0.11 1 11
+"284" "{Economy_Category=Moderate,Team=South Africa} => {Decade=-0s}" 0.03 1 0.03 1 3
+"285" "{Economy_Category=Moderate,Team=South Africa} => {Tournament_Stage=League}" 0.03 1 0.03 1 3
+"288" "{Wicket_Category=Four_Wickets,Team=South Africa} => {Decade=-0s}" 0.05 1 0.05 1 5
+"289" "{Wicket_Category=Four_Wickets,Team=South Africa} => {Tournament_Stage=League}" 0.05 1 0.05 1 5
+"291" "{Economy_Category=Economic,Team=South Africa} => {Decade=-0s}" 0.02 1 0.02 1 2
+"292" "{Economy_Category=Economic,Team=South Africa} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"293" "{Economy_Category=Very_Economic,Team=South Africa} => {Decade=-0s}" 0.07 1 0.07 1 7
+"295" "{Economy_Category=Very_Economic,Team=South Africa} => {Tournament_Stage=League}" 0.07 1 0.07 1 7
+"297" "{Wicket_Category=Five_Plus,Team=South Africa} => {Decade=-0s}" 0.07 1 0.07 1 7
+"299" "{Wicket_Category=Five_Plus,Team=South Africa} => {Tournament_Stage=League}" 0.07 1 0.07 1 7
+"301" "{Decade=-0s,Team=South Africa} => {Tournament_Stage=League}" 0.12 1 0.12 1 12
+"302" "{Tournament_Stage=League,Team=South Africa} => {Decade=-0s}" 0.12 1 0.12 1 12
+"304" "{Economy_Category=Moderate,Team=India} => {Decade=-0s}" 0.02 1 0.02 1 2
+"305" "{Economy_Category=Moderate,Team=India} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"308" "{Wicket_Category=Four_Wickets,Team=India} => {Decade=-0s}" 0.04 1 0.04 1 4
+"309" "{Wicket_Category=Four_Wickets,Team=India} => {Tournament_Stage=League}" 0.04 1 0.04 1 4
+"312" "{Economy_Category=Economic,Team=India} => {Decade=-0s}" 0.05 1 0.05 1 5
+"313" "{Economy_Category=Economic,Team=India} => {Tournament_Stage=League}" 0.05 1 0.05 1 5
+"314" "{Economy_Category=Very_Economic,Team=India} => {Decade=-0s}" 0.06 1 0.06 1 6
+"315" "{Economy_Category=Very_Economic,Team=India} => {Tournament_Stage=League}" 0.06 1 0.06 1 6
+"316" "{Wicket_Category=Five_Plus,Team=India} => {Decade=-0s}" 0.1 1 0.1 1 10
+"318" "{Wicket_Category=Five_Plus,Team=India} => {Tournament_Stage=League}" 0.1 1 0.1 1 10
+"320" "{Decade=-0s,Team=India} => {Tournament_Stage=League}" 0.14 1 0.14 1 14
+"321" "{Tournament_Stage=League,Team=India} => {Decade=-0s}" 0.14 1 0.14 1 14
+"323" "{Economy_Category=Moderate,Team=Australia} => {Decade=-0s}" 0.02 1 0.02 1 2
+"324" "{Economy_Category=Moderate,Team=Australia} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"325" "{Economy_Category=Moderate,Wicket_Category=Five_Plus} => {Decade=-0s}" 0.16 1 0.16 1 16
+"327" "{Economy_Category=Moderate,Wicket_Category=Five_Plus} => {Tournament_Stage=League}" 0.16 1 0.16 1 16
+"329" "{Economy_Category=Moderate,Decade=-0s} => {Tournament_Stage=League}" 0.16 1 0.16 1 16
+"330" "{Economy_Category=Moderate,Tournament_Stage=League} => {Decade=-0s}" 0.16 1 0.16 1 16
+"332" "{Wicket_Category=Four_Wickets,Team=Australia} => {Decade=-0s}" 0.04 1 0.04 1 4
+"333" "{Wicket_Category=Four_Wickets,Team=Australia} => {Tournament_Stage=League}" 0.04 1 0.04 1 4
+"335" "{Economy_Category=Economic,Team=Australia} => {Decade=-0s}" 0.08 1 0.08 1 8
+"336" "{Economy_Category=Economic,Team=Australia} => {Tournament_Stage=League}" 0.08 1 0.08 1 8
+"338" "{Economy_Category=Very_Economic,Team=Australia} => {Decade=-0s}" 0.1 1 0.1 1 10
+"340" "{Economy_Category=Very_Economic,Team=Australia} => {Tournament_Stage=League}" 0.1 1 0.1 1 10
+"342" "{Wicket_Category=Five_Plus,Team=Australia} => {Decade=-0s}" 0.16 1 0.16 1 16
+"344" "{Wicket_Category=Five_Plus,Team=Australia} => {Tournament_Stage=League}" 0.16 1 0.16 1 16
+"346" "{Decade=-0s,Team=Australia} => {Tournament_Stage=League}" 0.2 1 0.2 1 20
+"347" "{Tournament_Stage=League,Team=Australia} => {Decade=-0s}" 0.2 1 0.2 1 20
+"348" "{Economy_Category=Economic,Wicket_Category=Four_Wickets} => {Decade=-0s}" 0.04 1 0.04 1 4
+"349" "{Economy_Category=Economic,Wicket_Category=Four_Wickets} => {Tournament_Stage=League}" 0.04 1 0.04 1 4
+"350" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets} => {Decade=-0s}" 0.25 1 0.25 1 25
+"353" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets} => {Tournament_Stage=League}" 0.25 1 0.25 1 25
+"356" "{Wicket_Category=Four_Wickets,Decade=-0s} => {Tournament_Stage=League}" 0.29 1 0.29 1 29
+"357" "{Wicket_Category=Four_Wickets,Tournament_Stage=League} => {Decade=-0s}" 0.29 1 0.29 1 29
+"358" "{Economy_Category=Economic,Wicket_Category=Five_Plus} => {Decade=-0s}" 0.29 1 0.29 1 29
+"360" "{Economy_Category=Economic,Wicket_Category=Five_Plus} => {Tournament_Stage=League}" 0.29 1 0.29 1 29
+"362" "{Economy_Category=Economic,Decade=-0s} => {Tournament_Stage=League}" 0.33 1 0.33 1 33
+"363" "{Economy_Category=Economic,Tournament_Stage=League} => {Decade=-0s}" 0.33 1 0.33 1 33
+"364" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus} => {Decade=-0s}" 0.22 1 0.22 1 22
+"365" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus} => {Tournament_Stage=League}" 0.22 1 0.22 1 22
+"366" "{Economy_Category=Very_Economic,Decade=-0s} => {Tournament_Stage=League}" 0.47 1 0.47 1 47
+"367" "{Economy_Category=Very_Economic,Tournament_Stage=League} => {Decade=-0s}" 0.47 1 0.47 1 47
+"368" "{Wicket_Category=Five_Plus,Decade=-0s} => {Tournament_Stage=League}" 0.71 1 0.71 1 71
+"369" "{Wicket_Category=Five_Plus,Tournament_Stage=League} => {Decade=-0s}" 0.71 1 0.71 1 71
+"370" "{Tournament_Stage=League,Decade=-0s} => {Wicket_Category=Five_Plus}" 0.71 0.71 1 1 71
+"371" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Team=U.A.E.} => {Decade=-0s}" 0.01 1 0.01 1 1
+"374" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Team=U.A.E.} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"377" "{Economy_Category=Very_Economic,Decade=-0s,Team=U.A.E.} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"378" "{Economy_Category=Very_Economic,Tournament_Stage=League,Team=U.A.E.} => {Decade=-0s}" 0.01 1 0.01 1 1
+"380" "{Wicket_Category=Five_Plus,Decade=-0s,Team=U.A.E.} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"381" "{Wicket_Category=Five_Plus,Tournament_Stage=League,Team=U.A.E.} => {Decade=-0s}" 0.01 1 0.01 1 1
+"383" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Team=Namibia} => {Decade=-0s}" 0.01 1 0.01 1 1
+"386" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Team=Namibia} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"389" "{Economy_Category=Economic,Decade=-0s,Team=Namibia} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"390" "{Economy_Category=Economic,Tournament_Stage=League,Team=Namibia} => {Decade=-0s}" 0.01 1 0.01 1 1
+"392" "{Wicket_Category=Five_Plus,Decade=-0s,Team=Namibia} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"393" "{Wicket_Category=Five_Plus,Tournament_Stage=League,Team=Namibia} => {Decade=-0s}" 0.01 1 0.01 1 1
+"395" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Team=Canada} => {Decade=-0s}" 0.01 1 0.01 1 1
+"398" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Team=Canada} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"401" "{Economy_Category=Economic,Decade=-0s,Team=Canada} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"402" "{Economy_Category=Economic,Tournament_Stage=League,Team=Canada} => {Decade=-0s}" 0.01 1 0.01 1 1
+"404" "{Wicket_Category=Five_Plus,Decade=-0s,Team=Canada} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"405" "{Wicket_Category=Five_Plus,Tournament_Stage=League,Team=Canada} => {Decade=-0s}" 0.01 1 0.01 1 1
+"407" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Team=Kenya} => {Decade=-0s}" 0.01 1 0.01 1 1
+"410" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Team=Kenya} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"413" "{Economy_Category=Very_Economic,Decade=-0s,Team=Kenya} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"414" "{Economy_Category=Very_Economic,Tournament_Stage=League,Team=Kenya} => {Decade=-0s}" 0.01 1 0.01 1 1
+"416" "{Wicket_Category=Five_Plus,Decade=-0s,Team=Kenya} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"417" "{Wicket_Category=Five_Plus,Tournament_Stage=League,Team=Kenya} => {Decade=-0s}" 0.01 1 0.01 1 1
+"419" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Team=Zimbabwe} => {Decade=-0s}" 0.01 1 0.01 1 1
+"422" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Team=Zimbabwe} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"425" "{Wicket_Category=Four_Wickets,Decade=-0s,Team=Zimbabwe} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"426" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=Zimbabwe} => {Decade=-0s}" 0.01 1 0.01 1 1
+"428" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Team=Zimbabwe} => {Decade=-0s}" 0.01 1 0.01 1 1
+"431" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Team=Zimbabwe} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"434" "{Economy_Category=Very_Economic,Decade=-0s,Team=Zimbabwe} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"435" "{Economy_Category=Very_Economic,Tournament_Stage=League,Team=Zimbabwe} => {Decade=-0s}" 0.02 1 0.02 1 2
+"437" "{Wicket_Category=Five_Plus,Decade=-0s,Team=Zimbabwe} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"438" "{Wicket_Category=Five_Plus,Tournament_Stage=League,Team=Zimbabwe} => {Decade=-0s}" 0.01 1 0.01 1 1
+"440" "{Economy_Category=Expensive,Wicket_Category=Five_Plus,Team=Bangladesh} => {Decade=-0s}" 0.01 1 0.01 1 1
+"442" "{Economy_Category=Expensive,Wicket_Category=Five_Plus,Team=Bangladesh} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"444" "{Economy_Category=Expensive,Decade=-0s,Team=Bangladesh} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"445" "{Economy_Category=Expensive,Tournament_Stage=League,Team=Bangladesh} => {Decade=-0s}" 0.01 1 0.01 1 1
+"446" "{Economy_Category=Expensive,Wicket_Category=Five_Plus,Team=Sri Lanka} => {Decade=-0s}" 0.01 1 0.01 1 1
+"448" "{Economy_Category=Expensive,Wicket_Category=Five_Plus,Team=Sri Lanka} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"450" "{Economy_Category=Expensive,Decade=-0s,Team=Sri Lanka} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"451" "{Economy_Category=Expensive,Tournament_Stage=League,Team=Sri Lanka} => {Decade=-0s}" 0.01 1 0.01 1 1
+"452" "{Economy_Category=Expensive,Wicket_Category=Five_Plus,Team=England} => {Decade=-0s}" 0.01 1 0.01 1 1
+"454" "{Economy_Category=Expensive,Wicket_Category=Five_Plus,Team=England} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"456" "{Economy_Category=Expensive,Decade=-0s,Team=England} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"457" "{Economy_Category=Expensive,Tournament_Stage=League,Team=England} => {Decade=-0s}" 0.01 1 0.01 1 1
+"458" "{Economy_Category=Expensive,Wicket_Category=Five_Plus,Team=India} => {Decade=-0s}" 0.01 1 0.01 1 1
+"460" "{Economy_Category=Expensive,Wicket_Category=Five_Plus,Team=India} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"462" "{Economy_Category=Expensive,Decade=-0s,Team=India} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"463" "{Economy_Category=Expensive,Tournament_Stage=League,Team=India} => {Decade=-0s}" 0.01 1 0.01 1 1
+"464" "{Economy_Category=Expensive,Wicket_Category=Five_Plus,Decade=-0s} => {Tournament_Stage=League}" 0.04 1 0.04 1 4
+"465" "{Economy_Category=Expensive,Wicket_Category=Five_Plus,Tournament_Stage=League} => {Decade=-0s}" 0.04 1 0.04 1 4
+"467" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Team=Bangladesh} => {Decade=-0s}" 0.01 1 0.01 1 1
+"469" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Team=Bangladesh} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"471" "{Economy_Category=Moderate,Decade=-0s,Team=Bangladesh} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"472" "{Economy_Category=Moderate,Tournament_Stage=League,Team=Bangladesh} => {Decade=-0s}" 0.01 1 0.01 1 1
+"473" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Team=Bangladesh} => {Decade=-0s}" 0.01 1 0.01 1 1
+"476" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Team=Bangladesh} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"479" "{Wicket_Category=Four_Wickets,Decade=-0s,Team=Bangladesh} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"480" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=Bangladesh} => {Decade=-0s}" 0.01 1 0.01 1 1
+"481" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Team=Bangladesh} => {Decade=-0s}" 0.01 1 0.01 1 1
+"483" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Team=Bangladesh} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"485" "{Economy_Category=Very_Economic,Decade=-0s,Team=Bangladesh} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"486" "{Economy_Category=Very_Economic,Tournament_Stage=League,Team=Bangladesh} => {Decade=-0s}" 0.02 1 0.02 1 2
+"488" "{Wicket_Category=Five_Plus,Decade=-0s,Team=Bangladesh} => {Tournament_Stage=League}" 0.03 1 0.03 1 3
+"489" "{Wicket_Category=Five_Plus,Tournament_Stage=League,Team=Bangladesh} => {Decade=-0s}" 0.03 1 0.03 1 3
+"491" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Team=Sri Lanka} => {Decade=-0s}" 0.01 1 0.01 1 1
+"493" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Team=Sri Lanka} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"495" "{Economy_Category=Moderate,Decade=-0s,Team=Sri Lanka} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"496" "{Economy_Category=Moderate,Tournament_Stage=League,Team=Sri Lanka} => {Decade=-0s}" 0.01 1 0.01 1 1
+"497" "{Economy_Category=Economic,Wicket_Category=Four_Wickets,Team=Sri Lanka} => {Decade=-0s}" 0.01 1 0.01 1 1
+"499" "{Economy_Category=Economic,Wicket_Category=Four_Wickets,Team=Sri Lanka} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"501" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Team=Sri Lanka} => {Decade=-0s}" 0.02 1 0.02 1 2
+"504" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Team=Sri Lanka} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"507" "{Wicket_Category=Four_Wickets,Decade=-0s,Team=Sri Lanka} => {Tournament_Stage=League}" 0.03 1 0.03 1 3
+"508" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=Sri Lanka} => {Decade=-0s}" 0.03 1 0.03 1 3
+"509" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Team=Sri Lanka} => {Decade=-0s}" 0.01 1 0.01 1 1
+"511" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Team=Sri Lanka} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"513" "{Economy_Category=Economic,Decade=-0s,Team=Sri Lanka} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"514" "{Economy_Category=Economic,Tournament_Stage=League,Team=Sri Lanka} => {Decade=-0s}" 0.02 1 0.02 1 2
+"515" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Team=Sri Lanka} => {Decade=-0s}" 0.02 1 0.02 1 2
+"517" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Team=Sri Lanka} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"519" "{Economy_Category=Very_Economic,Decade=-0s,Team=Sri Lanka} => {Tournament_Stage=League}" 0.04 1 0.04 1 4
+"520" "{Economy_Category=Very_Economic,Tournament_Stage=League,Team=Sri Lanka} => {Decade=-0s}" 0.04 1 0.04 1 4
+"522" "{Wicket_Category=Five_Plus,Decade=-0s,Team=Sri Lanka} => {Tournament_Stage=League}" 0.05 1 0.05 1 5
+"523" "{Wicket_Category=Five_Plus,Tournament_Stage=League,Team=Sri Lanka} => {Decade=-0s}" 0.05 1 0.05 1 5
+"525" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Team=West Indies} => {Decade=-0s}" 0.02 1 0.02 1 2
+"527" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Team=West Indies} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"529" "{Economy_Category=Moderate,Decade=-0s,Team=West Indies} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"530" "{Economy_Category=Moderate,Tournament_Stage=League,Team=West Indies} => {Decade=-0s}" 0.02 1 0.02 1 2
+"531" "{Economy_Category=Economic,Wicket_Category=Four_Wickets,Team=West Indies} => {Decade=-0s}" 0.01 1 0.01 1 1
+"533" "{Economy_Category=Economic,Wicket_Category=Four_Wickets,Team=West Indies} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"535" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Team=West Indies} => {Decade=-0s}" 0.01 1 0.01 1 1
+"538" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Team=West Indies} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"541" "{Wicket_Category=Four_Wickets,Decade=-0s,Team=West Indies} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"542" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=West Indies} => {Decade=-0s}" 0.02 1 0.02 1 2
+"543" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Team=West Indies} => {Decade=-0s}" 0.04 1 0.04 1 4
+"546" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Team=West Indies} => {Tournament_Stage=League}" 0.04 1 0.04 1 4
+"549" "{Economy_Category=Economic,Decade=-0s,Team=West Indies} => {Tournament_Stage=League}" 0.05 1 0.05 1 5
+"550" "{Economy_Category=Economic,Tournament_Stage=League,Team=West Indies} => {Decade=-0s}" 0.05 1 0.05 1 5
+"552" "{Economy_Category=Very_Economic,Decade=-0s,Team=West Indies} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"553" "{Economy_Category=Very_Economic,Tournament_Stage=League,Team=West Indies} => {Decade=-0s}" 0.01 1 0.01 1 1
+"554" "{Wicket_Category=Five_Plus,Decade=-0s,Team=West Indies} => {Tournament_Stage=League}" 0.06 1 0.06 1 6
+"555" "{Wicket_Category=Five_Plus,Tournament_Stage=League,Team=West Indies} => {Decade=-0s}" 0.06 1 0.06 1 6
+"557" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Team=England} => {Decade=-0s}" 0.01 1 0.01 1 1
+"559" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Team=England} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"561" "{Economy_Category=Moderate,Decade=-0s,Team=England} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"562" "{Economy_Category=Moderate,Tournament_Stage=League,Team=England} => {Decade=-0s}" 0.01 1 0.01 1 1
+"563" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Team=England} => {Decade=-0s}" 0.05 1 0.05 1 5
+"566" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Team=England} => {Tournament_Stage=League}" 0.05 1 0.05 1 5
+"569" "{Wicket_Category=Four_Wickets,Decade=-0s,Team=England} => {Tournament_Stage=League}" 0.05 1 0.05 1 5
+"570" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=England} => {Decade=-0s}" 0.05 1 0.05 1 5
+"572" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Team=England} => {Decade=-0s}" 0.01 1 0.01 1 1
+"574" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Team=England} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"576" "{Economy_Category=Economic,Decade=-0s,Team=England} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"577" "{Economy_Category=Economic,Tournament_Stage=League,Team=England} => {Decade=-0s}" 0.01 1 0.01 1 1
+"578" "{Economy_Category=Very_Economic,Decade=-0s,Team=England} => {Tournament_Stage=League}" 0.05 1 0.05 1 5
+"579" "{Economy_Category=Very_Economic,Tournament_Stage=League,Team=England} => {Decade=-0s}" 0.05 1 0.05 1 5
+"581" "{Wicket_Category=Five_Plus,Decade=-0s,Team=England} => {Tournament_Stage=League}" 0.03 1 0.03 1 3
+"582" "{Wicket_Category=Five_Plus,Tournament_Stage=League,Team=England} => {Decade=-0s}" 0.03 1 0.03 1 3
+"583" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Team=New Zealand} => {Decade=-0s}" 0.01 1 0.01 1 1
+"585" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Team=New Zealand} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"587" "{Economy_Category=Moderate,Decade=-0s,Team=New Zealand} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"588" "{Economy_Category=Moderate,Tournament_Stage=League,Team=New Zealand} => {Decade=-0s}" 0.01 1 0.01 1 1
+"589" "{Economy_Category=Economic,Wicket_Category=Four_Wickets,Team=New Zealand} => {Decade=-0s}" 0.01 1 0.01 1 1
+"590" "{Economy_Category=Economic,Wicket_Category=Four_Wickets,Team=New Zealand} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"591" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Team=New Zealand} => {Decade=-0s}" 0.02 1 0.02 1 2
+"593" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Team=New Zealand} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"595" "{Wicket_Category=Four_Wickets,Decade=-0s,Team=New Zealand} => {Tournament_Stage=League}" 0.03 1 0.03 1 3
+"596" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=New Zealand} => {Decade=-0s}" 0.03 1 0.03 1 3
+"597" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Team=New Zealand} => {Decade=-0s}" 0.02 1 0.02 1 2
+"599" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Team=New Zealand} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"601" "{Economy_Category=Economic,Decade=-0s,Team=New Zealand} => {Tournament_Stage=League}" 0.03 1 0.03 1 3
+"602" "{Economy_Category=Economic,Tournament_Stage=League,Team=New Zealand} => {Decade=-0s}" 0.03 1 0.03 1 3
+"603" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Team=New Zealand} => {Decade=-0s}" 0.03 1 0.03 1 3
+"606" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Team=New Zealand} => {Tournament_Stage=League}" 0.03 1 0.03 1 3
+"609" "{Economy_Category=Very_Economic,Decade=-0s,Team=New Zealand} => {Tournament_Stage=League}" 0.05 1 0.05 1 5
+"610" "{Economy_Category=Very_Economic,Tournament_Stage=League,Team=New Zealand} => {Decade=-0s}" 0.05 1 0.05 1 5
+"612" "{Wicket_Category=Five_Plus,Decade=-0s,Team=New Zealand} => {Tournament_Stage=League}" 0.06 1 0.06 1 6
+"613" "{Wicket_Category=Five_Plus,Tournament_Stage=League,Team=New Zealand} => {Decade=-0s}" 0.06 1 0.06 1 6
+"615" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Team=Pakistan} => {Decade=-0s}" 0.03 1 0.03 1 3
+"617" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Team=Pakistan} => {Tournament_Stage=League}" 0.03 1 0.03 1 3
+"619" "{Economy_Category=Moderate,Decade=-0s,Team=Pakistan} => {Tournament_Stage=League}" 0.03 1 0.03 1 3
+"620" "{Economy_Category=Moderate,Tournament_Stage=League,Team=Pakistan} => {Decade=-0s}" 0.03 1 0.03 1 3
+"621" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Team=Pakistan} => {Decade=-0s}" 0.01 1 0.01 1 1
+"623" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Team=Pakistan} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"625" "{Wicket_Category=Four_Wickets,Decade=-0s,Team=Pakistan} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"626" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=Pakistan} => {Decade=-0s}" 0.01 1 0.01 1 1
+"627" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Team=Pakistan} => {Decade=-0s}" 0.05 1 0.05 1 5
+"630" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Team=Pakistan} => {Tournament_Stage=League}" 0.05 1 0.05 1 5
+"633" "{Economy_Category=Economic,Decade=-0s,Team=Pakistan} => {Tournament_Stage=League}" 0.05 1 0.05 1 5
+"634" "{Economy_Category=Economic,Tournament_Stage=League,Team=Pakistan} => {Decade=-0s}" 0.05 1 0.05 1 5
+"635" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Team=Pakistan} => {Decade=-0s}" 0.02 1 0.02 1 2
+"637" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Team=Pakistan} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"639" "{Economy_Category=Very_Economic,Decade=-0s,Team=Pakistan} => {Tournament_Stage=League}" 0.03 1 0.03 1 3
+"640" "{Economy_Category=Very_Economic,Tournament_Stage=League,Team=Pakistan} => {Decade=-0s}" 0.03 1 0.03 1 3
+"641" "{Wicket_Category=Five_Plus,Decade=-0s,Team=Pakistan} => {Tournament_Stage=League}" 0.1 1 0.1 1 10
+"642" "{Wicket_Category=Five_Plus,Tournament_Stage=League,Team=Pakistan} => {Decade=-0s}" 0.1 1 0.1 1 10
+"644" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Team=South Africa} => {Decade=-0s}" 0.03 1 0.03 1 3
+"646" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Team=South Africa} => {Tournament_Stage=League}" 0.03 1 0.03 1 3
+"648" "{Economy_Category=Moderate,Decade=-0s,Team=South Africa} => {Tournament_Stage=League}" 0.03 1 0.03 1 3
+"649" "{Economy_Category=Moderate,Tournament_Stage=League,Team=South Africa} => {Decade=-0s}" 0.03 1 0.03 1 3
+"650" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Team=South Africa} => {Decade=-0s}" 0.05 1 0.05 1 5
+"653" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Team=South Africa} => {Tournament_Stage=League}" 0.05 1 0.05 1 5
+"656" "{Wicket_Category=Four_Wickets,Decade=-0s,Team=South Africa} => {Tournament_Stage=League}" 0.05 1 0.05 1 5
+"657" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=South Africa} => {Decade=-0s}" 0.05 1 0.05 1 5
+"658" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Team=South Africa} => {Decade=-0s}" 0.02 1 0.02 1 2
+"660" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Team=South Africa} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"662" "{Economy_Category=Economic,Decade=-0s,Team=South Africa} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"663" "{Economy_Category=Economic,Tournament_Stage=League,Team=South Africa} => {Decade=-0s}" 0.02 1 0.02 1 2
+"664" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Team=South Africa} => {Decade=-0s}" 0.02 1 0.02 1 2
+"665" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Team=South Africa} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"666" "{Economy_Category=Very_Economic,Decade=-0s,Team=South Africa} => {Tournament_Stage=League}" 0.07 1 0.07 1 7
+"667" "{Economy_Category=Very_Economic,Tournament_Stage=League,Team=South Africa} => {Decade=-0s}" 0.07 1 0.07 1 7
+"669" "{Wicket_Category=Five_Plus,Decade=-0s,Team=South Africa} => {Tournament_Stage=League}" 0.07 1 0.07 1 7
+"670" "{Wicket_Category=Five_Plus,Tournament_Stage=League,Team=South Africa} => {Decade=-0s}" 0.07 1 0.07 1 7
+"672" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Team=India} => {Decade=-0s}" 0.02 1 0.02 1 2
+"674" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Team=India} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"676" "{Economy_Category=Moderate,Decade=-0s,Team=India} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"677" "{Economy_Category=Moderate,Tournament_Stage=League,Team=India} => {Decade=-0s}" 0.02 1 0.02 1 2
+"678" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Team=India} => {Decade=-0s}" 0.04 1 0.04 1 4
+"681" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Team=India} => {Tournament_Stage=League}" 0.04 1 0.04 1 4
+"684" "{Wicket_Category=Four_Wickets,Decade=-0s,Team=India} => {Tournament_Stage=League}" 0.04 1 0.04 1 4
+"685" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=India} => {Decade=-0s}" 0.04 1 0.04 1 4
+"686" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Team=India} => {Decade=-0s}" 0.05 1 0.05 1 5
+"689" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Team=India} => {Tournament_Stage=League}" 0.05 1 0.05 1 5
+"692" "{Economy_Category=Economic,Decade=-0s,Team=India} => {Tournament_Stage=League}" 0.05 1 0.05 1 5
+"693" "{Economy_Category=Economic,Tournament_Stage=League,Team=India} => {Decade=-0s}" 0.05 1 0.05 1 5
+"694" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Team=India} => {Decade=-0s}" 0.02 1 0.02 1 2
+"695" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Team=India} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"696" "{Economy_Category=Very_Economic,Decade=-0s,Team=India} => {Tournament_Stage=League}" 0.06 1 0.06 1 6
+"697" "{Economy_Category=Very_Economic,Tournament_Stage=League,Team=India} => {Decade=-0s}" 0.06 1 0.06 1 6
+"698" "{Wicket_Category=Five_Plus,Decade=-0s,Team=India} => {Tournament_Stage=League}" 0.1 1 0.1 1 10
+"699" "{Wicket_Category=Five_Plus,Tournament_Stage=League,Team=India} => {Decade=-0s}" 0.1 1 0.1 1 10
+"701" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Team=Australia} => {Decade=-0s}" 0.02 1 0.02 1 2
+"703" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Team=Australia} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"705" "{Economy_Category=Moderate,Decade=-0s,Team=Australia} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"706" "{Economy_Category=Moderate,Tournament_Stage=League,Team=Australia} => {Decade=-0s}" 0.02 1 0.02 1 2
+"707" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Decade=-0s} => {Tournament_Stage=League}" 0.16 1 0.16 1 16
+"708" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Tournament_Stage=League} => {Decade=-0s}" 0.16 1 0.16 1 16
+"710" "{Economy_Category=Economic,Wicket_Category=Four_Wickets,Team=Australia} => {Decade=-0s}" 0.01 1 0.01 1 1
+"711" "{Economy_Category=Economic,Wicket_Category=Four_Wickets,Team=Australia} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"712" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Team=Australia} => {Decade=-0s}" 0.03 1 0.03 1 3
+"714" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Team=Australia} => {Tournament_Stage=League}" 0.03 1 0.03 1 3
+"716" "{Wicket_Category=Four_Wickets,Decade=-0s,Team=Australia} => {Tournament_Stage=League}" 0.04 1 0.04 1 4
+"717" "{Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=Australia} => {Decade=-0s}" 0.04 1 0.04 1 4
+"718" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Team=Australia} => {Decade=-0s}" 0.07 1 0.07 1 7
+"720" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Team=Australia} => {Tournament_Stage=League}" 0.07 1 0.07 1 7
+"722" "{Economy_Category=Economic,Decade=-0s,Team=Australia} => {Tournament_Stage=League}" 0.08 1 0.08 1 8
+"723" "{Economy_Category=Economic,Tournament_Stage=League,Team=Australia} => {Decade=-0s}" 0.08 1 0.08 1 8
+"724" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Team=Australia} => {Decade=-0s}" 0.07 1 0.07 1 7
+"726" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Team=Australia} => {Tournament_Stage=League}" 0.07 1 0.07 1 7
+"728" "{Economy_Category=Very_Economic,Decade=-0s,Team=Australia} => {Tournament_Stage=League}" 0.1 1 0.1 1 10
+"729" "{Economy_Category=Very_Economic,Tournament_Stage=League,Team=Australia} => {Decade=-0s}" 0.1 1 0.1 1 10
+"731" "{Wicket_Category=Five_Plus,Decade=-0s,Team=Australia} => {Tournament_Stage=League}" 0.16 1 0.16 1 16
+"732" "{Wicket_Category=Five_Plus,Tournament_Stage=League,Team=Australia} => {Decade=-0s}" 0.16 1 0.16 1 16
+"734" "{Economy_Category=Economic,Wicket_Category=Four_Wickets,Decade=-0s} => {Tournament_Stage=League}" 0.04 1 0.04 1 4
+"735" "{Economy_Category=Economic,Wicket_Category=Four_Wickets,Tournament_Stage=League} => {Decade=-0s}" 0.04 1 0.04 1 4
+"736" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Decade=-0s} => {Tournament_Stage=League}" 0.25 1 0.25 1 25
+"737" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Tournament_Stage=League} => {Decade=-0s}" 0.25 1 0.25 1 25
+"740" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Decade=-0s} => {Tournament_Stage=League}" 0.29 1 0.29 1 29
+"741" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Tournament_Stage=League} => {Decade=-0s}" 0.29 1 0.29 1 29
+"743" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Decade=-0s} => {Tournament_Stage=League}" 0.22 1 0.22 1 22
+"744" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Tournament_Stage=League} => {Decade=-0s}" 0.22 1 0.22 1 22
+"745" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Decade=-0s,Team=U.A.E.} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"746" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=U.A.E.} => {Decade=-0s}" 0.01 1 0.01 1 1
+"749" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Decade=-0s,Team=Namibia} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"750" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=Namibia} => {Decade=-0s}" 0.01 1 0.01 1 1
+"753" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Decade=-0s,Team=Canada} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"754" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=Canada} => {Decade=-0s}" 0.01 1 0.01 1 1
+"757" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Decade=-0s,Team=Kenya} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"758" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=Kenya} => {Decade=-0s}" 0.01 1 0.01 1 1
+"761" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Decade=-0s,Team=Zimbabwe} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"762" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=Zimbabwe} => {Decade=-0s}" 0.01 1 0.01 1 1
+"765" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Decade=-0s,Team=Zimbabwe} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"766" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=Zimbabwe} => {Decade=-0s}" 0.01 1 0.01 1 1
+"769" "{Economy_Category=Expensive,Wicket_Category=Five_Plus,Decade=-0s,Team=Bangladesh} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"770" "{Economy_Category=Expensive,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=Bangladesh} => {Decade=-0s}" 0.01 1 0.01 1 1
+"772" "{Economy_Category=Expensive,Wicket_Category=Five_Plus,Decade=-0s,Team=Sri Lanka} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"773" "{Economy_Category=Expensive,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=Sri Lanka} => {Decade=-0s}" 0.01 1 0.01 1 1
+"775" "{Economy_Category=Expensive,Wicket_Category=Five_Plus,Decade=-0s,Team=England} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"776" "{Economy_Category=Expensive,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=England} => {Decade=-0s}" 0.01 1 0.01 1 1
+"778" "{Economy_Category=Expensive,Wicket_Category=Five_Plus,Decade=-0s,Team=India} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"779" "{Economy_Category=Expensive,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=India} => {Decade=-0s}" 0.01 1 0.01 1 1
+"781" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Decade=-0s,Team=Bangladesh} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"782" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=Bangladesh} => {Decade=-0s}" 0.01 1 0.01 1 1
+"784" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Decade=-0s,Team=Bangladesh} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"785" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=Bangladesh} => {Decade=-0s}" 0.01 1 0.01 1 1
+"788" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Decade=-0s,Team=Bangladesh} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"789" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=Bangladesh} => {Decade=-0s}" 0.01 1 0.01 1 1
+"791" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Decade=-0s,Team=Sri Lanka} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"792" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=Sri Lanka} => {Decade=-0s}" 0.01 1 0.01 1 1
+"794" "{Economy_Category=Economic,Wicket_Category=Four_Wickets,Decade=-0s,Team=Sri Lanka} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"795" "{Economy_Category=Economic,Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=Sri Lanka} => {Decade=-0s}" 0.01 1 0.01 1 1
+"797" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Decade=-0s,Team=Sri Lanka} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"798" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=Sri Lanka} => {Decade=-0s}" 0.02 1 0.02 1 2
+"801" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Decade=-0s,Team=Sri Lanka} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"802" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=Sri Lanka} => {Decade=-0s}" 0.01 1 0.01 1 1
+"804" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Decade=-0s,Team=Sri Lanka} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"805" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=Sri Lanka} => {Decade=-0s}" 0.02 1 0.02 1 2
+"807" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Decade=-0s,Team=West Indies} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"808" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=West Indies} => {Decade=-0s}" 0.02 1 0.02 1 2
+"810" "{Economy_Category=Economic,Wicket_Category=Four_Wickets,Decade=-0s,Team=West Indies} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"811" "{Economy_Category=Economic,Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=West Indies} => {Decade=-0s}" 0.01 1 0.01 1 1
+"813" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Decade=-0s,Team=West Indies} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"814" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=West Indies} => {Decade=-0s}" 0.01 1 0.01 1 1
+"817" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Decade=-0s,Team=West Indies} => {Tournament_Stage=League}" 0.04 1 0.04 1 4
+"818" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=West Indies} => {Decade=-0s}" 0.04 1 0.04 1 4
+"821" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Decade=-0s,Team=England} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"822" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=England} => {Decade=-0s}" 0.01 1 0.01 1 1
+"824" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Decade=-0s,Team=England} => {Tournament_Stage=League}" 0.05 1 0.05 1 5
+"825" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=England} => {Decade=-0s}" 0.05 1 0.05 1 5
+"828" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Decade=-0s,Team=England} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"829" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=England} => {Decade=-0s}" 0.01 1 0.01 1 1
+"831" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Decade=-0s,Team=New Zealand} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"832" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=New Zealand} => {Decade=-0s}" 0.01 1 0.01 1 1
+"834" "{Economy_Category=Economic,Wicket_Category=Four_Wickets,Decade=-0s,Team=New Zealand} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"835" "{Economy_Category=Economic,Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=New Zealand} => {Decade=-0s}" 0.01 1 0.01 1 1
+"836" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Decade=-0s,Team=New Zealand} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"837" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=New Zealand} => {Decade=-0s}" 0.02 1 0.02 1 2
+"839" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Decade=-0s,Team=New Zealand} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"840" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=New Zealand} => {Decade=-0s}" 0.02 1 0.02 1 2
+"842" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Decade=-0s,Team=New Zealand} => {Tournament_Stage=League}" 0.03 1 0.03 1 3
+"843" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=New Zealand} => {Decade=-0s}" 0.03 1 0.03 1 3
+"846" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Decade=-0s,Team=Pakistan} => {Tournament_Stage=League}" 0.03 1 0.03 1 3
+"847" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=Pakistan} => {Decade=-0s}" 0.03 1 0.03 1 3
+"849" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Decade=-0s,Team=Pakistan} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"850" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=Pakistan} => {Decade=-0s}" 0.01 1 0.01 1 1
+"852" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Decade=-0s,Team=Pakistan} => {Tournament_Stage=League}" 0.05 1 0.05 1 5
+"853" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=Pakistan} => {Decade=-0s}" 0.05 1 0.05 1 5
+"856" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Decade=-0s,Team=Pakistan} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"857" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=Pakistan} => {Decade=-0s}" 0.02 1 0.02 1 2
+"859" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Decade=-0s,Team=South Africa} => {Tournament_Stage=League}" 0.03 1 0.03 1 3
+"860" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=South Africa} => {Decade=-0s}" 0.03 1 0.03 1 3
+"862" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Decade=-0s,Team=South Africa} => {Tournament_Stage=League}" 0.05 1 0.05 1 5
+"863" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=South Africa} => {Decade=-0s}" 0.05 1 0.05 1 5
+"866" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Decade=-0s,Team=South Africa} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"867" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=South Africa} => {Decade=-0s}" 0.02 1 0.02 1 2
+"869" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Decade=-0s,Team=South Africa} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"870" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=South Africa} => {Decade=-0s}" 0.02 1 0.02 1 2
+"871" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Decade=-0s,Team=India} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"872" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=India} => {Decade=-0s}" 0.02 1 0.02 1 2
+"874" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Decade=-0s,Team=India} => {Tournament_Stage=League}" 0.04 1 0.04 1 4
+"875" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=India} => {Decade=-0s}" 0.04 1 0.04 1 4
+"878" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Decade=-0s,Team=India} => {Tournament_Stage=League}" 0.05 1 0.05 1 5
+"879" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=India} => {Decade=-0s}" 0.05 1 0.05 1 5
+"882" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Decade=-0s,Team=India} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"883" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=India} => {Decade=-0s}" 0.02 1 0.02 1 2
+"884" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Decade=-0s,Team=Australia} => {Tournament_Stage=League}" 0.02 1 0.02 1 2
+"885" "{Economy_Category=Moderate,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=Australia} => {Decade=-0s}" 0.02 1 0.02 1 2
+"887" "{Economy_Category=Economic,Wicket_Category=Four_Wickets,Decade=-0s,Team=Australia} => {Tournament_Stage=League}" 0.01 1 0.01 1 1
+"888" "{Economy_Category=Economic,Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=Australia} => {Decade=-0s}" 0.01 1 0.01 1 1
+"889" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Decade=-0s,Team=Australia} => {Tournament_Stage=League}" 0.03 1 0.03 1 3
+"890" "{Economy_Category=Very_Economic,Wicket_Category=Four_Wickets,Tournament_Stage=League,Team=Australia} => {Decade=-0s}" 0.03 1 0.03 1 3
+"892" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Decade=-0s,Team=Australia} => {Tournament_Stage=League}" 0.07 1 0.07 1 7
+"893" "{Economy_Category=Economic,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=Australia} => {Decade=-0s}" 0.07 1 0.07 1 7
+"895" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Decade=-0s,Team=Australia} => {Tournament_Stage=League}" 0.07 1 0.07 1 7
+"896" "{Economy_Category=Very_Economic,Wicket_Category=Five_Plus,Tournament_Stage=League,Team=Australia} => {Decade=-0s}" 0.07 1 0.07 1 7
+"337" "{Economy_Category=Very_Economic,Team=Australia} => {Wicket_Category=Five_Plus}" 0.07 0.7 0.1 0.985915492957746 7
+"725" "{Economy_Category=Very_Economic,Decade=-0s,Team=Australia} => {Wicket_Category=Five_Plus}" 0.07 0.7 0.1 0.985915492957746 7
+"727" "{Economy_Category=Very_Economic,Tournament_Stage=League,Team=Australia} => {Wicket_Category=Five_Plus}" 0.07 0.7 0.1 0.985915492957746 7
+"897" "{Economy_Category=Very_Economic,Tournament_Stage=League,Decade=-0s,Team=Australia} => {Wicket_Category=Five_Plus}" 0.07 0.7 0.1 0.985915492957746 7
+"42" "{Team=New Zealand} => {Wicket_Category=Five_Plus}" 0.06 0.666666666666667 0.09 0.938967136150235 6
+"249" "{Economy_Category=Economic,Team=New Zealand} => {Wicket_Category=Five_Plus}" 0.02 0.666666666666667 0.03 0.938967136150235 2
+"259" "{Decade=-0s,Team=New Zealand} => {Wicket_Category=Five_Plus}" 0.06 0.666666666666667 0.09 0.938967136150235 6
+"261" "{Tournament_Stage=League,Team=New Zealand} => {Wicket_Category=Five_Plus}" 0.06 0.666666666666667 0.09 0.938967136150235 6
+"274" "{Economy_Category=Very_Economic,Team=Pakistan} => {Wicket_Category=Five_Plus}" 0.02 0.666666666666667 0.03 0.938967136150235 2
+"598" "{Economy_Category=Economic,Decade=-0s,Team=New Zealand} => {Wicket_Category=Five_Plus}" 0.02 0.666666666666667 0.03 0.938967136150235 2
+"600" "{Economy_Category=Economic,Tournament_Stage=League,Team=New Zealand} => {Wicket_Category=Five_Plus}" 0.02 0.666666666666667 0.03 0.938967136150235 2
+"614" "{Tournament_Stage=League,Decade=-0s,Team=New Zealand} => {Wicket_Category=Five_Plus}" 0.06 0.666666666666667 0.09 0.938967136150235 6
+"636" "{Economy_Category=Very_Economic,Decade=-0s,Team=Pakistan} => {Wicket_Category=Five_Plus}" 0.02 0.666666666666667 0.03 0.938967136150235 2
+"638" "{Economy_Category=Very_Economic,Tournament_Stage=League,Team=Pakistan} => {Wicket_Category=Five_Plus}" 0.02 0.666666666666667 0.03 0.938967136150235 2
+"841" "{Economy_Category=Economic,Tournament_Stage=League,Decade=-0s,Team=New Zealand} => {Wicket_Category=Five_Plus}" 0.02 0.666666666666667 0.03 0.938967136150235 2
+"858" "{Economy_Category=Very_Economic,Tournament_Stage=League,Decade=-0s,Team=Pakistan} => {Wicket_Category=Five_Plus}" 0.02 0.666666666666667 0.03 0.938967136150235 2
+"30" "{Team=Sri Lanka} => {Wicket_Category=Five_Plus}" 0.05 0.625 0.08 0.880281690140845 5
+"196" "{Decade=-0s,Team=Sri Lanka} => {Wicket_Category=Five_Plus}" 0.05 0.625 0.08 0.880281690140845 5
+"198" "{Tournament_Stage=League,Team=Sri Lanka} => {Wicket_Category=Five_Plus}" 0.05 0.625 0.08 0.880281690140845 5
+"524" "{Tournament_Stage=League,Decade=-0s,Team=Sri Lanka} => {Wicket_Category=Five_Plus}" 0.05 0.625 0.08 0.880281690140845 5
+"252" "{Economy_Category=Very_Economic,Team=New Zealand} => {Wicket_Category=Five_Plus}" 0.03 0.6 0.05 0.845070422535211 3
+"604" "{Economy_Category=Very_Economic,Decade=-0s,Team=New Zealand} => {Wicket_Category=Five_Plus}" 0.03 0.6 0.05 0.845070422535211 3
+"607" "{Economy_Category=Very_Economic,Tournament_Stage=League,Team=New Zealand} => {Wicket_Category=Five_Plus}" 0.03 0.6 0.05 0.845070422535211 3
+"844" "{Economy_Category=Very_Economic,Tournament_Stage=League,Decade=-0s,Team=New Zealand} => {Wicket_Category=Five_Plus}" 0.03 0.6 0.05 0.845070422535211 3
+"49" "{Team=South Africa} => {Wicket_Category=Five_Plus}" 0.07 0.583333333333333 0.12 0.821596244131455 7
+"298" "{Decade=-0s,Team=South Africa} => {Wicket_Category=Five_Plus}" 0.07 0.583333333333333 0.12 0.821596244131455 7
+"300" "{Tournament_Stage=League,Team=South Africa} => {Wicket_Category=Five_Plus}" 0.07 0.583333333333333 0.12 0.821596244131455 7
+"671" "{Tournament_Stage=League,Decade=-0s,Team=South Africa} => {Wicket_Category=Five_Plus}" 0.07 0.583333333333333 0.12 0.821596244131455 7
+"19" "{Team=Zimbabwe} => {Wicket_Category=Five_Plus}" 0.01 0.5 0.02 0.704225352112676 1
+"131" "{Economy_Category=Very_Economic,Team=Zimbabwe} => {Wicket_Category=Five_Plus}" 0.01 0.5 0.02 0.704225352112676 1
+"138" "{Decade=-0s,Team=Zimbabwe} => {Wicket_Category=Five_Plus}" 0.01 0.5 0.02 0.704225352112676 1
+"140" "{Tournament_Stage=League,Team=Zimbabwe} => {Wicket_Category=Five_Plus}" 0.01 0.5 0.02 0.704225352112676 1
+"168" "{Economy_Category=Very_Economic,Team=Bangladesh} => {Wicket_Category=Five_Plus}" 0.01 0.5 0.02 0.704225352112676 1
+"187" "{Economy_Category=Economic,Team=Sri Lanka} => {Wicket_Category=Five_Plus}" 0.01 0.5 0.02 0.704225352112676 1
+"190" "{Economy_Category=Very_Economic,Team=Sri Lanka} => {Wicket_Category=Five_Plus}" 0.02 0.5 0.04 0.704225352112676 2
+"429" "{Economy_Category=Very_Economic,Decade=-0s,Team=Zimbabwe} => {Wicket_Category=Five_Plus}" 0.01 0.5 0.02 0.704225352112676 1
+"432" "{Economy_Category=Very_Economic,Tournament_Stage=League,Team=Zimbabwe} => {Wicket_Category=Five_Plus}" 0.01 0.5 0.02 0.704225352112676 1
+"439" "{Tournament_Stage=League,Decade=-0s,Team=Zimbabwe} => {Wicket_Category=Five_Plus}" 0.01 0.5 0.02 0.704225352112676 1
+"482" "{Economy_Category=Very_Economic,Decade=-0s,Team=Bangladesh} => {Wicket_Category=Five_Plus}" 0.01 0.5 0.02 0.704225352112676 1
+"484" "{Economy_Category=Very_Economic,Tournament_Stage=League,Team=Bangladesh} => {Wicket_Category=Five_Plus}" 0.01 0.5 0.02 0.704225352112676 1
+"510" "{Economy_Category=Economic,Decade=-0s,Team=Sri Lanka} => {Wicket_Category=Five_Plus}" 0.01 0.5 0.02 0.704225352112676 1
+"512" "{Economy_Category=Economic,Tournament_Stage=League,Team=Sri Lanka} => {Wicket_Category=Five_Plus}" 0.01 0.5 0.02 0.704225352112676 1
+"516" "{Economy_Category=Very_Economic,Decade=-0s,Team=Sri Lanka} => {Wicket_Category=Five_Plus}" 0.02 0.5 0.04 0.704225352112676 2
+"518" "{Economy_Category=Very_Economic,Tournament_Stage=League,Team=Sri Lanka} => {Wicket_Category=Five_Plus}" 0.02 0.5 0.04 0.704225352112676 2
+"767" "{Economy_Category=Very_Economic,Tournament_Stage=League,Decade=-0s,Team=Zimbabwe} => {Wicket_Category=Five_Plus}" 0.01 0.5 0.02 0.704225352112676 1
+"790" "{Economy_Category=Very_Economic,Tournament_Stage=League,Decade=-0s,Team=Bangladesh} => {Wicket_Category=Five_Plus}" 0.01 0.5 0.02 0.704225352112676 1
+"803" "{Economy_Category=Economic,Tournament_Stage=League,Decade=-0s,Team=Sri Lanka} => {Wicket_Category=Five_Plus}" 0.01 0.5 0.02 0.704225352112676 1
+"806" "{Economy_Category=Very_Economic,Tournament_Stage=League,Decade=-0s,Team=Sri Lanka} => {Wicket_Category=Five_Plus}" 0.02 0.5 0.04 0.704225352112676 2
